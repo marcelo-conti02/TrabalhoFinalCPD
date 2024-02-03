@@ -1,14 +1,14 @@
 'use client';
 import { useState } from "react";
 import { useForm } from "react-hook-form"
-import { fetchData } from "../nav.js";
+import { showData } from "../nav.js";
 
 export default function Home() {
   const [searchText, setSearchText] = useState('');
 
   const handleSearch = async (data) => {
       setSearchText(data.filterText);
-      await fetchData(searchText);
+      await showData(searchText);
   };
 
   return (
@@ -16,7 +16,7 @@ export default function Home() {
   );
 }
 
-function SearchForm({ setSearchText, handleSearch }) {
+function SearchForm({ handleSearch }) {
   const {
       register,
       handleSubmit,

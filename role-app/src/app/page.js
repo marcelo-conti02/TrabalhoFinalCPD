@@ -1,7 +1,7 @@
 'use client';
 import { useState } from "react";
 import { useForm } from "react-hook-form"
-import { showData } from "../nav.js";
+import { showData } from "../../../nav.js";
 
 export default function Home() {
   const [searchText, setSearchText] = useState('');

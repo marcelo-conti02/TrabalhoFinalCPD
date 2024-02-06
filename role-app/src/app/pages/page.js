@@ -1,13 +1,43 @@
 "use client";
 import { useEffect, useState } from "react";
 import { useForm } from "react-hook-form";
+import "./style.css";
 // import { showData, fetchData } from "../../../nav";
-
+import axios from "axios";
 export default function Home() {
 	const [searchText, setSearchText] = useState("");
 	const [placi, setPlaces] = useState(false);
+	const [fav, setfav] = useState([]);
+	const [weather, setWeather] = useState(false);
+	const [location, setLocation] = useState(false);
+
 	let i = 0;
 	let newPlaces = [];
+
+	useEffect(() => {
+		navigator.geolocation.getCurrentPosition((position) => {
+			getInfo(position.coords.latitude, position.coords.longitude);
+			setLocation(true);
+		});
+	}, []);
+
+	async function getInfo(lat, long) {
+		const info = await axios.get(
+			"https://api.openweathermap.org/data/2.5/weather",
+			{
+				params: {
+					lat: lat,
+					lon: long,
+					appid: "391cc769a9a9cb8de5ad4e7e51086424",
+					lang: "pt",
+					units: "metric",
+				},
+			}
+		);
+		setWeather(info.data);
+		console.log(info.data);
+	}
+
 	const handleSearch = async (data) => {
 		setSearchText(data.filterText);
 		// api version
@@ -16,14 +46,17 @@ export default function Home() {
 			method: "GET",
 		});
 		const placesObj = await response.json();
-		newPlaces.push(...placesObj.all);
+		newPlaces.push(...placesObj.data.all);
 		setPlaces(newPlaces);
+		setfav([...placesObj.favList.fav_list]);
 		// parte para encher o banco de dados
 		// for (i = 0; i < placi.length; i++) {
 		// 	newPlaces.push({
 		// 		id: placi[i].place_id,
 		// 		name: placi[i].name,
 		// 		type: placi[i].type,
+		//			fav: false,
+		//			cep:
 		// 	});
 		// }
 		// 	try {
@@ -47,23 +80,91 @@ export default function Home() {
 		// 	}
 	};
 
-	if (placi) {
+	if (location === false) {
+		return (
+			<>
+				<h1>Você precisa habilitar a localização no browser o/</h1>
+			</>
+		);
+	} else if (placi === false) {
+		return (
+			<main>
+				<div className="container">
+					<div>
+						<h1>Carregando clima em: </h1>
+						<SearchForm
+							setSearchText={setSearchText}
+							handleSearch={handleSearch}
+						/>
+					</div>
+				</div>
+			</main>
+		);
+	} else if (placi !== true) {
 		const newPlaci = placi.filter(
 			(obj) => obj.type === searchText.toLowerCase()
 		);
+		const temp = parseInt(weather["main"]["temp"]);
 		return (
 			<>
 				<>
-					<SearchForm 
+					<SearchForm
 						setSearchText={setSearchText}
 						handleSearch={handleSearch}
 					/>
 					<br />
+					<div>
+						<div>
+							<h1>Clima em Porto Alegre</h1>
+							{temp > 25 ? alert("tem certeza? Ta calor afu") : ""}
+						</div>
+						<h2>{weather["weather"][0]["description"]}</h2>
+						<br />
+						<ul>
+							<li>Temperatura atual: {weather["main"]["temp"]}°</li>
+							<li>Humidade: {weather["main"]["humidity"]}%</li>
+							<li>Sensação térmica: {weather["main"]["feels_like"]}°</li>
+							<li>Temperatura máxima: {weather["main"]["temp_max"]}°</li>
+							<li>Temperatura minima: {weather["main"]["temp_min"]}°</li>
+							<li>Pressão: {weather["main"]["pressure"]} hpa</li>
+						</ul>
+					</div>
+					<br />
+					<div>
+						<h2>LISTA DE FAVORITOS</h2>
+						{fav.length != 0
+							? fav.map((place) => {
+									return (
+										<>
+											<div>
+												<ul>
+													<li>{place.id}</li>
+													<li>{place.name}</li>
+													<li>{place.type}</li>
+													<li>{place.fav ? "⭐" : ""}</li>
+													<li>{place.address}</li>
+													<br />
+												</ul>
+											</div>
+										</>
+									);
+							  })
+							: ""}
+					</div>
+					<hr />
 				</>
 				{newPlaci.map((place) => {
 					return (
 						<>
-							<Place place={place}/>
+							<div>
+								<ul>
+									<li>{place.id}</li>
+									<li>{place.name}</li>
+									<li>{place.type}</li>
+									<li>{place.cep}</li>
+									<br />
+								</ul>
+							</div>
 						</>
 					);
 				})}
@@ -72,51 +173,56 @@ export default function Home() {
 	}
 
 	return (
-		<div className="home">
-			<h1 className="title">Buscador de locais</h1>
+		<>
 			<SearchForm setSearchText={setSearchText} handleSearch={handleSearch} />
 			<br />
-		</div>
+		</>
 	);
-}
 
-function Place({place}){
-	return (
-		<ul>
-			<li>{place.id}</li>
-			<li>{place.name}</li>
-			<li>{place.type}</li>
-		</ul>			
-	);
-}
+	function SearchForm({ handleSearch }) {
+		const {
+			register,
+			handleSubmit,
+			reset,
+			formState: { isSubmitted },
+		} = useForm({ defaultValues: { filterText: "" } });
 
-function SearchForm({ handleSearch }) {
-	const {
-		register,
-		handleSubmit,
-		reset,
-		formState: { isSubmitted },
-	} = useForm({ defaultValues: { filterText: "" } });
+		if (isSubmitted) {
+			reset();
+		}
 
-	if (isSubmitted) {
-		reset();
-	}
-
-	return (
-		<>
-			<form onSubmit={handleSubmit(handleSearch)}>
-				<b>Pesquise um tipo de local:</b>
-				<div className="input">
+		return (
+			<>
+				<form onSubmit={handleSubmit(handleSearch)}>
+					<b>Pesquise um local:</b>
 					<input
 						type="text"
 						placeholder="Digite algum local"
 						required
 						{...register("filterText")}
 					/>
+
 					<button type="submit">Search</button>
-				</div>
+					<div className="container">
+						<a href="../put">Adicionar aos favoritos</a>
+						<a href="../del">Deletae item</a>
+					</div>
+				</form>
+				<br />
+
+				{/* <form onSubmit={handleSubmit(handleSearch)}>
+				<b>Pesquise um tipo de local:</b>
+				<input
+					type="text"
+					placeholder="Digite algum local"
+					required
+					{...register("filterText")}
+				/>
+
+				<button type="submit">Search</button>
 				<div className="container">{}</div>
-			</form>
-		</>
-	);
+			</form> */}
+			</>
+		);
+	}
 }

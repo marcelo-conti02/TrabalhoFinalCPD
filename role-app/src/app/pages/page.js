@@ -1,7 +1,7 @@
 "use client";
 import { useEffect, useState } from "react";
 import { useForm } from "react-hook-form";
-import { showData, fetchData } from "../../../nav";
+import { showData, fetchData } from "../../../../nav";
 
 export default function Home() {
 	const [searchText, setSearchText] = useState("");
@@ -39,7 +39,7 @@ export default function Home() {
 		return (
 			<>
 				<>
-					<SearchForm
+					<SearchForm 
 						setSearchText={setSearchText}
 						handleSearch={handleSearch}
 					/>
@@ -48,12 +48,7 @@ export default function Home() {
 				{placi.map((place) => {
 					return (
 						<>
-							<div>
-								<ul>
-									<li>{place.name}</li>
-									<li>{place.type}</li>
-								</ul>
-							</div>
+							<Place place={place}/>
 						</>
 					);
 				})}
@@ -62,10 +57,20 @@ export default function Home() {
 	}
 
 	return (
-		<>
+		<div className="home">
+			<h1 className="title">Buscador de locais</h1>
 			<SearchForm setSearchText={setSearchText} handleSearch={handleSearch} />
 			<br />
-		</>
+		</div>
+	);
+}
+
+function Place({place}){
+	return (
+		<ul>
+			<li>{place.name}</li>
+			<li>{place.type}</li>
+		</ul>			
 	);
 }
 
@@ -85,14 +90,15 @@ function SearchForm({ handleSearch }) {
 		<>
 			<form onSubmit={handleSubmit(handleSearch)}>
 				<b>Pesquise um local:</b>
-				<input
-					type="text"
-					placeholder="Digite algum local"
-					required
-					{...register("filterText")}
-				/>
-
-				<button type="submit">Search</button>
+				<div className="input">
+					<input
+						type="text"
+						placeholder="Digite algum local"
+						required
+						{...register("filterText")}
+					/>
+					<button type="submit">Search</button>
+				</div>
 				<div className="container">{}</div>
 			</form>
 		</>

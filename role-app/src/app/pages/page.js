@@ -89,9 +89,9 @@ export default function Home() {
 	} else if (placi === false) {
 		return (
 			<main>
-				<div className="container">
+				<div className="container-title">
 					<div>
-						<h1>Carregando clima em: </h1>
+						<h1>Carregando clima em:</h1>
 						<SearchForm
 							setSearchText={setSearchText}
 							handleSearch={handleSearch}
@@ -134,21 +134,21 @@ export default function Home() {
 						<h2>LISTA DE FAVORITOS</h2>
 						{fav.length != 0
 							? fav.map((place) => {
-									return (
-										<>
-											<div>
-												<ul>
-													<li>{place.id}</li>
-													<li>{place.name}</li>
-													<li>{place.type}</li>
-													<li>{place.fav ? "⭐" : ""}</li>
-													<li>{place.address}</li>
-													<br />
-												</ul>
-											</div>
-										</>
-									);
-							  })
+								return (
+									<>
+										<div>
+											<ul>
+												<li>{place.id}</li>
+												<li>{place.name}</li>
+												<li>{place.type}</li>
+												<li>{place.fav ? "⭐" : ""}</li>
+												<li>{place.address}</li>
+												<br />
+											</ul>
+										</div>
+									</>
+								);
+							})
 							: ""}
 					</div>
 					<hr />
@@ -194,18 +194,20 @@ export default function Home() {
 		return (
 			<>
 				<form onSubmit={handleSubmit(handleSearch)}>
-					<b>Pesquise um local:</b>
-					<input
-						type="text"
-						placeholder="Digite algum local"
-						required
-						{...register("filterText")}
-					/>
+					<div className="pesquisa">
+						<b>Pesquise um local:</b>
+						<input
+							type="text"
+							placeholder="Digite algum local"
+							required
+							{...register("filterText")}
+						/>
 
-					<button type="submit">Search</button>
-					<div className="container">
+						<button type="submit">Search</button>
+					</div>
+					<div className="container-fav">
 						<a href="../put">Adicionar aos favoritos</a>
-						<a href="../del">Deletae item</a>
+						<a href="../del">Deletar item</a>
 					</div>
 				</form>
 				<br />

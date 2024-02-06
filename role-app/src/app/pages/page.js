@@ -1,7 +1,7 @@
 "use client";
 import { useEffect, useState } from "react";
 import { useForm } from "react-hook-form";
-import { showData, fetchData } from "../../../../nav";
+// import { showData, fetchData } from "../../../nav";
 
 export default function Home() {
 	const [searchText, setSearchText] = useState("");
@@ -10,32 +10,47 @@ export default function Home() {
 	let newPlaces = [];
 	const handleSearch = async (data) => {
 		setSearchText(data.filterText);
-		const places = await showData(searchText);
-		setPlaces(places);
-		for (i = 0; i < placi.length; i++) {
-			newPlaces.push({ name: placi[i].name, type: placi[i].type });
-		}
-		try {
-			console.log(JSON.stringify(newPlaces));
-			const response = await fetch("http://localhost:3000/api", {
-				method: "POST",
-				headers: {
-					"Content-Type": "application/json",
-				},
-				body: JSON.stringify(newPlaces),
-			});
+		// api version
+		// const places = await showData(searchText);
+		const response = await fetch("http://localhost:3000/api", {
+			method: "GET",
+		});
+		const placesObj = await response.json();
+		newPlaces.push(...placesObj.all);
+		setPlaces(newPlaces);
+		// parte para encher o banco de dados
+		// for (i = 0; i < placi.length; i++) {
+		// 	newPlaces.push({
+		// 		id: placi[i].place_id,
+		// 		name: placi[i].name,
+		// 		type: placi[i].type,
+		// 	});
+		// }
+		// 	try {
+		// 		console.log(JSON.stringify(newPlaces));
+		// 		const response = await fetch("http://localhost:3000/api", {
+		// 			method: "POST",
+		// 			headers: {
+		// 				"Content-Type": "application/json",
+		// 			},
+		// 			body: JSON.stringify(newPlaces),
+		// 		});
 
-			if (!response.ok) {
-				throw new Error("Network response was not ok");
-			}
+		// 		if (!response.ok) {
+		// 			throw new Error("Network response was not ok");
+		// 		}
 
-			const result = await response.json();
-			console.log(result);
-		} catch (error) {
-			console.error("Error submitting form:", error.message);
-		}
+		// 		const result = await response.json();
+		// 		console.log(result);
+		// 	} catch (error) {
+		// 		console.error("Error submitting form:", error.message);
+		// 	}
 	};
+
 	if (placi) {
+		const newPlaci = placi.filter(
+			(obj) => obj.type === searchText.toLowerCase()
+		);
 		return (
 			<>
 				<>
@@ -45,7 +60,7 @@ export default function Home() {
 					/>
 					<br />
 				</>
-				{placi.map((place) => {
+				{newPlaci.map((place) => {
 					return (
 						<>
 							<Place place={place}/>
@@ -68,6 +83,7 @@ export default function Home() {
 function Place({place}){
 	return (
 		<ul>
+			<li>{place.id}</li>
 			<li>{place.name}</li>
 			<li>{place.type}</li>
 		</ul>			
@@ -89,7 +105,7 @@ function SearchForm({ handleSearch }) {
 	return (
 		<>
 			<form onSubmit={handleSubmit(handleSearch)}>
-				<b>Pesquise um local:</b>
+				<b>Pesquise um tipo de local:</b>
 				<div className="input">
 					<input
 						type="text"

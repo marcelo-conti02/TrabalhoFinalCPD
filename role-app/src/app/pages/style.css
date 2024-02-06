@@ -1,0 +1,80 @@
+:root {
+    --cor-preta: #111313ec;
+    --cor-cinza: rgb(158, 150, 150);
+    --cinza-botão: rgb(212, 208, 208);
+    --borda-verde: rgb(130, 185, 47);
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.container-title {
+    display: flex;
+    margin: 4vh 0 0 2vh;
+
+}
+
+.container-title h1 {
+    padding: 2vh;
+    border: 1px solid var(--borda-verde);
+    border-radius: 2vh;
+    font-size: 3.8rem;
+    background-color: var(--cor-preta);
+    width: fit-content;
+    margin-bottom: 5vh;
+}
+
+.pesquisa {
+    margin-top: 2vh;
+    display: flex;
+}
+
+.pesquisa b {
+    margin-right: 2vh;
+    font-size: 3rem;
+}
+
+.pesquisa input {
+    border-radius: 0.45vh;
+    border-color: var(--borda-verde);
+}
+
+.pesquisa input::placeholder {
+    padding-left: 1vh;
+}
+
+.pesquisa input:hover {
+    border-color: var(--cor-cinza);
+}
+
+
+.pesquisa button {
+    margin-left: 0.5vh;
+    color: var(--cinza-botão);
+    font-size: 1.3rem;
+    padding: .5rem;
+    background-color: var(--cor-preta);
+    border-radius: 0.45vh;
+    border: 1px solid var(--borda-verde);
+}
+
+.pesquisa button:hover {
+    border-color: var(--borda-verde);
+    border-color: var(--cor-cinza);
+
+}
+
+.container-fav {
+    display: flex;
+    margin-top: 2vh;
+    width: fit-content;
+}
+
+.container-fav a {
+    margin-left: 1.5vh;
+    padding: 2vh;
+    font-size: 1.5rem;
+    outline: 1px solid var(--cinza-botão);
+    border-radius: 0.2vh
+}

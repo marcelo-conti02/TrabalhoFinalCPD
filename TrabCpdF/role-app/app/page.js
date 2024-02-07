@@ -230,7 +230,7 @@ export default function Home() {
 						<button type="submit">Search</button>
 					</div>
 					<br />
-					<p>Tipos de pesquisa: cafe, hospital, pub, bar, restaurant</p>
+					<p>Tipos de pesquisa: cafe, hospital, pub, bar, restaurant, hotel</p>
 					<br />
 					<p>Digite * se não quiser filtrar</p>
 					<div className="container">

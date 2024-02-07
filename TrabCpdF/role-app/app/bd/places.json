@@ -1,1 +1,2468 @@
-{"all":[{"id":6967191,"name":"4Beer Menino Deus","type":"bar","address":"Avenida Getúlio Vargas, Menino Deus, Porto Alegre","cep":"90150-005","fav":true},{"id":7051940,"name":"Hospital Beneficência Portuguesa","type":"hospital","address":"Rua da Conceição, Independência, Porto Alegre","cep":"90035-070","fav":false},{"id":7056734,"name":"Hospital Presidente Vargas","type":"hospital","address":"661, Avenida Independência, Bom Fim, Porto Alegre","cep":"90035-052","fav":false},{"id":6992949,"name":"Hospital Divina Providência","type":"hospital","address":"145, Rua da Gruta, Cascata, Porto Alegre","cep":"91712-260","fav":false},{"id":6991957,"name":"Futuras instalações do Complexo Hospitalar São Miguel (antigo Hospital Parque Belém)","type":"hospital","address":"Avenida Professor Oscar Pereira, Belém Velho, Porto Alegre","cep":"91712-160","fav":false},{"id":7024695,"name":"Hospital Porto Alegre","type":"hospital","address":"Rua Doutor Sebastião Leão, Vila Cabo Rocha, Azenha","cep":"90050-010","fav":false},{"id":7067523,"name":"Centro de Saúde Modelo","type":"hospital","address":"55, Avenida Jerônimo de Ornelas, Santana, Porto Alegre","cep":"90040-341","fav":false},{"id":7033980,"name":"Suksteris - Núcleo de Medicina","type":"hospital","address":"542, Rua Fernandes Vieira, Bom Fim, Porto Alegre","cep":"90035-091","fav":false},{"id":7027285,"name":"Hospital de Pronto Socorro","type":"hospital","address":"Avenida Venâncio Aires, Santana, Porto Alegre","cep":"90040-180","fav":false},{"id":7038727,"name":"Hospital Espírita de Porto Alegre","type":"hospital","address":"175, Praça Simões Lopes Neto, Teresópolis, Porto Alegre","cep":"91720-440","fav":false},{"id":7018970,"name":"Hospital Santa Ana","type":"hospital","address":"175, Praça Simões Lopes Neto, Teresópolis, Porto Alegre","cep":"91720-440","fav":false},{"id":7113426,"name":"Hospital Moinhos de Vento","type":"hospital","address":"910, Rua Ramiro Barcelos, Moinhos de Vento, Porto Alegre","cep":"90035-000","fav":false},{"id":6926200,"name":"Hospital de Clínicas","type":"hospital","address":"2350, Rua Ramiro Barcelos, Santa Cecília, Porto Alegre","cep":"90035-903","fav":false},{"id":7084643,"name":"Pronto Socorro Cruz Azul","type":"hospital","address":"233, Rua Mostardeiro, Rio Branco, Porto Alegre","cep":"90430-001","fav":false},{"id":7014534,"name":"Associação Hospitalar Vila Nova","type":"hospital","address":"155, Rua Catarino Andreatta, Vila Nova, Porto Alegre","cep":"91750-040","fav":false},{"id":7038355,"name":"Hospital Mãe de Deus","type":"hospital","address":"286, Rua José de Alencar, Menino Deus, Porto Alegre","cep":"90880-480","fav":false},{"id":7077461,"name":"Instituto de Cardiologia","type":"hospital","address":"Avenida Princesa Isabel, Santana, Porto Alegre","cep":"90040-373","fav":false},{"id":7074268,"name":"Unidade Álvaro Alvim - HCPA","type":"hospital","address":"400, Rua Professor Álvaro Alvim, Rio Branco, Porto Alegre","cep":"90420-020","fav":false},{"id":7058154,"name":"Hospital Petrópolis","type":"hospital","address":"2040, Avenida Coronel Lucas de Oliveira, Bela Vista, Porto Alegre","cep":"90440-010","fav":false},{"id":7049510,"name":"Pronto Atendimento Cruzeiro do Sul","type":"hospital","address":"151, Rua Professor Manoel Lobato, Santa Tereza, Porto Alegre","cep":"90850-530","fav":false},{"id":7011459,"name":"Hospital Militar de Área de Porto Alegre","type":"hospital","address":"450, Avenida Mariland, Auxiliadora, Porto Alegre","cep":"90440-190","fav":false},{"id":7087027,"name":"Hospital Sanatório Partenon","type":"hospital","address":"3722, Avenida Bento Gonçalves, Partenon, Porto Alegre","cep":"90650-001","fav":false},{"id":7063618,"name":"Hospital Psiquiátrico São Pedro","type":"hospital","address":"2460, Avenida Bento Gonçalves, Partenon, Porto Alegre","cep":"90650-001","fav":false},{"id":7074454,"name":"Hospital São Lucas da PUCRS","type":"hospital","address":"6690, Avenida Ipiranga, Jardim Botânico, Porto Alegre","cep":"90610-000","fav":false},{"id":6949868,"name":"Instituto do Cérebro","type":"hospital","address":"PUCRS, Jardim Botânico, Porto Alegre","cep":"90690-130","fav":false},{"id":7045902,"name":"MedCenter","type":"hospital","address":"569, Avenida Soledade, Três Figueiras, Porto Alegre","cep":"90470-340","fav":false},{"id":7055567,"name":"Centro de Saúde IAPI","type":"hospital","address":"90, Rua 3 de Abril, Vila do IAPI, Passo da Areia","cep":"90520-200","fav":false},{"id":7076201,"name":"Hospital Independência","type":"hospital","address":"450, Avenida Antônio de Carvalho, Jardim das Bandeiras, Jardim Carvalho","cep":"91430-000","fav":false},{"id":7044681,"name":"Hospital da Brigada Militar de Porto Alegre","type":"hospital","address":"155, Rua Doutor Castro de Menezes, Cristal, Porto Alegre","cep":"91900-590","fav":false},{"id":7062796,"name":"Pronto-Atendimento Saúde Restinga","type":"hospital","address":"Rua Álvaro Difini, 3ª UV, Vila Nova Restinga","cep":"91790-010","fav":false},{"id":7004917,"name":"Hospital Restinga e Extremo-Sul","type":"hospital","address":"3330, Rua Alberto Hoffmann, Distrito Industrial da Restinga, Restinga","cep":"91796-000","fav":false},{"id":6984370,"name":"Hospital Nossa Senhora da Conceição","type":"hospital","address":"596, Avenida Francisco Trein, Cristo Redentor, Porto Alegre","cep":"91350-200","fav":false},{"id":7078428,"name":"Hospital Cristo Redentor","type":"hospital","address":"20, Rua Domingos Rubbo, Cristo Redentor, Porto Alegre","cep":"91040-000","fav":false},{"id":7052558,"name":"Hospital da Criança Conceição","type":"hospital","address":"565, Rua Álvares Cabral, Cristo Redentor, Porto Alegre","cep":"91350-200","fav":false},{"id":7076918,"name":"Hospital Banco de Olhos","type":"hospital","address":"285, Rua Engenheiro Walter Boehl, Vila Ipiranga, Porto Alegre","cep":"91360-160","fav":false},{"id":7050651,"name":"Tuyuty Pub","type":"pub","address":"Rua Riachuelo, Centro Histórico, Porto Alegre","cep":"90010-300","fav":false},{"id":7059942,"name":"Armazem POA","type":"pub","address":"786, Passeio Outono, Centro Histórico, Porto Alegre","cep":"90020-024","fav":false},{"id":7069425,"name":"Boteco 787","type":"pub","address":"787, Rua dos Andradas, Centro Histórico, Porto Alegre","cep":"90020-001","fav":false},{"id":7075605,"name":"Bar Sobradinho","type":"pub","address":"Rua Marechal Floriano Peixoto, Centro Histórico, Porto Alegre","cep":"90020-061","fav":false},{"id":7052149,"name":"Champanharia Ovelha Negra","type":"pub","address":"Rua Duque de Caxias, Centro Histórico, Porto Alegre","cep":"90010-280","fav":false},{"id":7023431,"name":"Natalício","type":"pub","address":"Rua Marechal Floriano Peixoto, Centro Histórico, Porto Alegre","cep":"90020-024","fav":false},{"id":7075158,"name":"Bar e Restaurante Sirocco","type":"pub","address":"Rua Riachuelo, Centro Histórico, Porto Alegre","cep":"90010-273","fav":false},{"id":7077330,"name":"Grand's","type":"pub","address":"Rua General Lima e Silva, Centro Histórico, Porto Alegre","cep":"90010-283","fav":false},{"id":7030432,"name":"Solar Coruja","type":"pub","address":"525, Rua Riachuelo, Centro Histórico, Porto Alegre","cep":"90010-270","fav":false},{"id":7042345,"name":"Casa do Cachorro","type":"pub","address":"Rua General Lima e Silva, Centro Histórico, Porto Alegre","cep":"90070-150","fav":false},{"id":7063364,"name":"Parangolé","type":"pub","address":"240, Rua General Lima e Silva, Cidade Baixa, Porto Alegre","cep":"90050-102","fav":false},{"id":6937267,"name":"Barônia","type":"pub","address":"254, Rua General Lima e Silva, Cidade Baixa, Porto Alegre","cep":"90050-102","fav":false},{"id":7056352,"name":"Lima's Bar","type":"pub","address":"269, Rua General Lima e Silva, Cidade Baixa, Porto Alegre","cep":"90050-101","fav":false},{"id":7053890,"name":"Malvadeza Pub","type":"pub","address":"Travessa do Carmo, Cidade Baixa, Porto Alegre","cep":"90050-210","fav":false},{"id":7040445,"name":"Copão","type":"pub","address":"312, Rua General Lima e Silva, Cidade Baixa, Porto Alegre","cep":"90050-101","fav":false},{"id":7029405,"name":"Cotiporâ","type":"pub","address":"325, Rua General Lima e Silva, Cidade Baixa, Porto Alegre","cep":"90050-101","fav":false},{"id":7046578,"name":"Bola 8 Snoker Bar","type":"pub","address":"272, Rua José do Patrocínio, Cidade Baixa, Porto Alegre","cep":"90050-002","fav":false},{"id":7046678,"name":"Cavanhas","type":"pub","address":"373, Rua General Lima e Silva, Cidade Baixa, Porto Alegre","cep":"90050-101","fav":false},{"id":6981914,"name":"Mondo Cane","type":"pub","address":"325, Rua João Alfredo, Cidade Baixa, Porto Alegre","cep":"90050-230","fav":false},{"id":7022318,"name":"Divina Comédia","type":"pub","address":"Rua da República, Cidade Baixa, Porto Alegre","cep":"90050-321","fav":false},{"id":7091824,"name":"Estação Cidade Baixa","type":"pub","address":"417, Rua General Lima e Silva, Cidade Baixa, Porto Alegre","cep":"90050-101","fav":false},{"id":7018934,"name":"Pinacoteca","type":"pub","address":"Rua da República, Cidade Baixa, Porto Alegre","cep":"90050-320","fav":false},{"id":7079865,"name":"I Love CB","type":"pub","address":"695, Rua da República, Cidade Baixa, Porto Alegre","cep":"90050-230","fav":false},{"id":7053076,"name":"Boteco Pedrini","type":"pub","address":"431, Rua General Lima e Silva, Cidade Baixa, Porto Alegre","cep":"90050-101","fav":false},{"id":7037637,"name":"Estancia de São Pedro","type":"pub","address":"Rua João Alfredo, Cidade Baixa, Porto Alegre","cep":"90050-230","fav":false},{"id":7029711,"name":"Bar Bilhar Psiquiatra","type":"pub","address":"Rua João Alfredo, Cidade Baixa, Porto Alegre","cep":"90050-230","fav":false},{"id":7037685,"name":"The Cavern Beer","type":"pub","address":"473, Rua José do Patrocínio, Cidade Baixa, Porto Alegre","cep":"90050-003","fav":false},{"id":6980736,"name":"Reçaka Bar","type":"pub","address":"495, Rua José do Patrocínio, Cidade Baixa, Porto Alegre","cep":"90050-002","fav":false},{"id":7060569,"name":"Pinguim","type":"pub","address":"505, Rua General Lima e Silva, Cidade Baixa, Porto Alegre","cep":"90050-100","fav":false},{"id":7036668,"name":"Clube Silêncio","type":"pub","address":"449, Rua João Alfredo, Cidade Baixa, Porto Alegre","cep":"90050-230","fav":false},{"id":7039467,"name":"Casa Rosa CB","type":"pub","address":"163, Rua da República, Cidade Baixa, Porto Alegre","cep":"90050-140","fav":false},{"id":7028255,"name":"Entreato","type":"pub","address":"163, Rua da República, Cidade Baixa, Porto Alegre","cep":"90050-140","fav":false},{"id":7078566,"name":"Preto Zé","type":"pub","address":"486, Rua João Alfredo, Cidade Baixa, Porto Alegre","cep":"90050-230","fav":false},{"id":7075680,"name":"Graffiti Bar","type":"pub","address":"496, Rua João Alfredo, Cidade Baixa, Porto Alegre","cep":"90050-230","fav":false},{"id":7047182,"name":"Espaço Cultural 512","type":"pub","address":"512, Rua João Alfredo, Cidade Baixa, Porto Alegre","cep":"90050-230","fav":false},{"id":7056745,"name":"Toca","type":"pub","address":"515, Rua Luiz Afonso, Cidade Baixa, Porto Alegre","cep":"90050-310","fav":false},{"id":7083404,"name":"Antique Bar e Raridades","type":"pub","address":"533, Rua João Alfredo, Cidade Baixa, Porto Alegre","cep":"90050-310","fav":false},{"id":7066508,"name":"Du'Attos","type":"restaurant","address":"1, Praça Marechal Deodoro, Centro Histórico, Porto Alegre","cep":"90010-300","fav":false},{"id":7027423,"name":"Bistrô do Solar","type":"restaurant","address":"148, Praça Marechal Deodoro, Centro Histórico, Porto Alegre","cep":"90010-250","fav":false},{"id":7055753,"name":"Sede Social do Clube do Comércio","type":"restaurant","address":"1085, Rua dos Andradas, Centro Histórico, Porto Alegre","cep":"90020-007","fav":false},{"id":7052928,"name":"Via Natural","type":"restaurant","address":"933, Rua dos Andradas, Centro Histórico, Porto Alegre","cep":"90020-005","fav":false},{"id":7038889,"name":"Restaurante Soledade","type":"restaurant","address":"315, Rua General João Manoel, Centro Histórico, Porto Alegre","cep":"90020-005","fav":false},{"id":7080496,"name":"Restaurante Vivenda Portuguesa","type":"restaurant","address":"Rua Jerônimo Coelho, Centro Histórico, Porto Alegre","cep":"90010-241","fav":false},{"id":7060079,"name":"Il Pomodorino","type":"restaurant","address":"583, Rua Coronel Fernando Machado, Centro Histórico, Porto Alegre","cep":"90010-312","fav":false},{"id":7057637,"name":"Veneza","type":"restaurant","address":"839, Rua dos Andradas, Centro Histórico, Porto Alegre","cep":"90020-005","fav":false},{"id":7062721,"name":"Natureza","type":"restaurant","address":"Travessa Acylino de Carvalho, Centro Histórico, Porto Alegre","cep":"90010-200","fav":false},{"id":7062609,"name":"Rossi","type":"restaurant","address":"822, Rua dos Andradas, Centro Histórico, Porto Alegre","cep":"90020-001","fav":false},{"id":7057516,"name":"Ponto Grill","type":"restaurant","address":"Avenida Borges de Medeiros, Centro Histórico, Porto Alegre","cep":"90020-025","fav":false},{"id":7028687,"name":"Bistrô do MARGS","type":"restaurant","address":"Praça da Alfândega, Centro Histórico, Porto Alegre","cep":"90010-150","fav":false},{"id":7037505,"name":"Moeda Bar e Restaurante","type":"restaurant","address":"Rua Cassiano do Nascimento, Centro Histórico, Porto Alegre","cep":"90010-070","fav":false},{"id":7029636,"name":"Tauta","type":"restaurant","address":"804, Rua dos Andradas, Centro Histórico, Porto Alegre","cep":"90020-001","fav":false},{"id":7059922,"name":"Restaurante Estrela do Porto","type":"restaurant","address":"Rua Jerônimo Coelho, Centro Histórico, Porto Alegre","cep":"90020-110","fav":false},{"id":7030848,"name":"Restaurante Chicago Grill","type":"restaurant","address":"1040, Rua Demétrio Ribeiro, Centro Histórico, Porto Alegre","cep":"90010-310","fav":false},{"id":7070529,"name":"Salgaditos","type":"restaurant","address":"Avenida Senador Salgado Filho, Centro Histórico, Porto Alegre","cep":"90010-200","fav":false},{"id":7059868,"name":"Vereda","type":"restaurant","address":"768, Rua dos Andradas, Centro Histórico, Porto Alegre","cep":"90020-001","fav":false},{"id":6928744,"name":"Olá","type":"restaurant","address":"Avenida Borges de Medeiros, Centro Histórico, Porto Alegre","cep":"90020-025","fav":false},{"id":7017943,"name":"Restaurante Vida","type":"restaurant","address":"Rua Jerônimo Coelho, Centro Histórico, Porto Alegre","cep":"90020-110","fav":false},{"id":7069026,"name":"Piato Mio","type":"restaurant","address":"647, Rua 7 de Setembro, Centro Histórico, Porto Alegre","cep":"90020-003","fav":false},{"id":7053037,"name":"Atelier de Massas","type":"restaurant","address":"1482, Rua Riachuelo, Centro Histórico, Porto Alegre","cep":"90010-273","fav":false},{"id":7053822,"name":"Restaurante Onze e Meia","type":"restaurant","address":"Rua Demétrio Ribeiro, Centro Histórico, Porto Alegre","cep":"90010-310","fav":false},{"id":7051014,"name":"Encantado","type":"restaurant","address":"Rua Riachuelo, Centro Histórico, Porto Alegre","cep":"90010-273","fav":false},{"id":7062345,"name":"Restaurante Martinelli","type":"restaurant","address":"Rua Riachuelo, Centro Histórico, Porto Alegre","cep":"90010-273","fav":false},{"id":7088560,"name":"Refugio's","type":"restaurant","address":"717, Rua dos Andradas, Centro Histórico, Porto Alegre","cep":"90020-001","fav":false},{"id":7068750,"name":"Restaurante Pirirí","type":"restaurant","address":"Rua General Vitorino, Centro Histórico, Porto Alegre","cep":"90020-171","fav":false},{"id":7098129,"name":"Fettuccine","type":"restaurant","address":"685, Rua dos Andradas, Centro Histórico, Porto Alegre","cep":"90020-001","fav":false},{"id":7030849,"name":"Palácio do Buffet","type":"restaurant","address":"Rua General Câmara, Centro Histórico, Porto Alegre","cep":"90001-970","fav":false},{"id":6994938,"name":"Nova Vida","type":"restaurant","address":"1182, Rua Demétrio Ribeiro, Centro Histórico, Porto Alegre","cep":"90010-310","fav":false},{"id":7038778,"name":"Mr. Chau","type":"restaurant","address":"171, Rua Coronel Genuíno, Centro Histórico, Porto Alegre","cep":"90020-025","fav":false},{"id":7039602,"name":"Tuim","type":"bar","address":"Rua General Câmara, Centro Histórico, Porto Alegre","cep":"91920-230","fav":false},{"id":7027515,"name":"Champanharia 690","type":"bar","address":"690- CEP  90010-280, Rua Duque de Caxias, Centro Histórico","cep":"90010-280","fav":false},{"id":6961970,"name":"Espumantes La Cava","type":"bar","address":"1176, Rua Coronel Fernando Machado, Centro Histórico, Porto Alegre","cep":"90020-025","fav":false},{"id":7038643,"name":"Brechó do Futebol","type":"bar","address":"1188, Rua Coronel Fernando Machado, Centro Histórico, Porto Alegre","cep":"90020-025","fav":false},{"id":7057686,"name":"Hot Dog Retro","type":"bar","address":"266, Rua General Lima e Silva, Cidade Baixa, Porto Alegre","cep":"90070-150","fav":false},{"id":6972155,"name":"Xirú","type":"bar","address":"Avenida João Pessoa, Centro Histórico, Porto Alegre","cep":"90050-170","fav":false},{"id":7060630,"name":"Locals Only CB","type":"bar","address":"1086, Rua Sarmento Leite, Cidade Baixa, Porto Alegre","cep":"90050-001","fav":false},{"id":7025348,"name":"Rei pública","type":"bar","address":"Rua José do Patrocínio, Cidade Baixa, Porto Alegre","cep":"90050-002","fav":false},{"id":7060920,"name":"Apolinário","type":"bar","address":"Rua José do Patrocínio, Cidade Baixa, Porto Alegre","cep":"90050-002","fav":false},{"id":7073738,"name":"Píer 174","type":"bar","address":"174, Rua da República, Cidade Baixa, Porto Alegre","cep":"90050-321","fav":false},{"id":7085858,"name":"Anexo/9","type":"bar","address":"501, Avenida Presidente João Goulart, Centro Histórico, Porto Alegre","cep":"90010-120","fav":false},{"id":7036164,"name":"Oculto","type":"bar","address":"Rua José do Patrocínio, Cidade Baixa, Porto Alegre","cep":"90050-002","fav":false},{"id":7068859,"name":"Bar 2","type":"bar","address":"Ciclovia Edvaldo Pereira Paiva, Praia de Belas, Porto Alegre","cep":"90010-120","fav":false},{"id":7065451,"name":"Bar 3","type":"bar","address":"Ciclovia Edvaldo Pereira Paiva, Praia de Belas, Porto Alegre","cep":"90010-120","fav":false},{"id":380445936,"name":"Guernica","type":"bar","address":"44, Travessa dos Venezianos, Cidade Baixa, Porto Alegre","cep":"90050-370","fav":false},{"id":7065939,"name":"Charlie Pub | Drinks & CoffeShop","type":"bar","address":"Rua General Lima e Silva, Cidade Baixa, Porto Alegre","cep":"90050-102","fav":false},{"id":7042383,"name":"Boteco Dona Neusa","type":"bar","address":"800, Rua General Lima e Silva, Cidade Baixa, Porto Alegre","cep":"90050-100","fav":false},{"id":6992505,"name":"Amberê","type":"bar","address":"Ciclovia Edvaldo Pereira Paiva, Praia de Belas, Porto Alegre","cep":"90013-900","fav":false},{"id":7029645,"name":"Tu Me Ama","type":"bar","address":"1062, Rua José do Patrocínio, Vila Cabo Rocha, Cidade Baixa","cep":"90050-193","fav":false},{"id":6959967,"name":"Toca da Coruja","type":"bar","address":"Rua Olavo Bilac, Vila Cabo Rocha, Azenha","cep":"90040-310","fav":false},{"id":375594889,"name":"Choro Jazz Café","type":"bar","address":"51, Rua Santana, Farroupilha, Porto Alegre","cep":"90040-370","fav":false},{"id":7033399,"name":"Leiteria 639","type":"bar","address":"633, Avenida Venâncio Aires, Santana, Porto Alegre","cep":"90040-193","fav":false},{"id":7076850,"name":"Petit Dalí Restobar","type":"bar","address":"52, Rua Vasco da Gama, Bom Fim, Porto Alegre","cep":"90420-111","fav":false},{"id":7053718,"name":"Alice's Bar","type":"bar","address":"859, Avenida Venâncio Aires, Santana, Porto Alegre","cep":"90040-193","fav":false},{"id":7036123,"name":"Hooroo - Australian Pub","type":"bar","address":"Rua Fernandes Vieira, Bom Fim, Porto Alegre","cep":"90035-091","fav":false},{"id":7092470,"name":"Raupp Bar e Restaurante","type":"bar","address":"693, Avenida Getúlio Vargas, Menino Deus, Porto Alegre","cep":"90150-000","fav":false},{"id":6960112,"name":"Boteco Imperial","type":"bar","address":"375, Rua Santana, Santana, Porto Alegre","cep":"90040-370","fav":false},{"id":7059665,"name":"Bar da Praça","type":"bar","address":"Rua General Jacinto Osório, Santana, Porto Alegre","cep":"90040-290","fav":false},{"id":7040593,"name":"Lagom Brewpub","type":"bar","address":"72, Rua Bento Figueiredo, Bom Fim, Porto Alegre","cep":"90035-140","fav":false},{"id":7055672,"name":"Padaria e Lancheria Pinguim","type":"bar","address":"Avenida Jerônimo de Ornelas, Santana, Porto Alegre","cep":"90040-340","fav":false},{"id":7039602,"name":"Tuim","type":"bar","address":"Rua General Câmara, Centro Histórico, Porto Alegre","cep":"91920-230","fav":false},{"id":7027515,"name":"Champanharia 690","type":"bar","address":"690- CEP  90010-280, Rua Duque de Caxias, Centro Histórico","cep":"90010-280","fav":false},{"id":6961970,"name":"Espumantes La Cava","type":"bar","address":"1176, Rua Coronel Fernando Machado, Centro Histórico, Porto Alegre","cep":"90020-025","fav":false},{"id":7038643,"name":"Brechó do Futebol","type":"bar","address":"1188, Rua Coronel Fernando Machado, Centro Histórico, Porto Alegre","cep":"90020-025","fav":false},{"id":7057686,"name":"Hot Dog Retro","type":"bar","address":"266, Rua General Lima e Silva, Cidade Baixa, Porto Alegre","cep":"90070-150","fav":false},{"id":6972155,"name":"Xirú","type":"bar","address":"Avenida João Pessoa, Centro Histórico, Porto Alegre","cep":"90050-170","fav":false},{"id":7060630,"name":"Locals Only CB","type":"bar","address":"1086, Rua Sarmento Leite, Cidade Baixa, Porto Alegre","cep":"90050-001","fav":false},{"id":7025348,"name":"Rei pública","type":"bar","address":"Rua José do Patrocínio, Cidade Baixa, Porto Alegre","cep":"90050-002","fav":false},{"id":7060920,"name":"Apolinário","type":"bar","address":"Rua José do Patrocínio, Cidade Baixa, Porto Alegre","cep":"90050-002","fav":false},{"id":7073738,"name":"Píer 174","type":"bar","address":"174, Rua da República, Cidade Baixa, Porto Alegre","cep":"90050-321","fav":false},{"id":7085858,"name":"Anexo/9","type":"bar","address":"501, Avenida Presidente João Goulart, Centro Histórico, Porto Alegre","cep":"90010-120","fav":false},{"id":7036164,"name":"Oculto","type":"bar","address":"Rua José do Patrocínio, Cidade Baixa, Porto Alegre","cep":"90050-002","fav":false},{"id":7068859,"name":"Bar 2","type":"bar","address":"Ciclovia Edvaldo Pereira Paiva, Praia de Belas, Porto Alegre","cep":"90010-120","fav":false},{"id":7065451,"name":"Bar 3","type":"bar","address":"Ciclovia Edvaldo Pereira Paiva, Praia de Belas, Porto Alegre","cep":"90010-120","fav":false},{"id":380445936,"name":"Guernica","type":"bar","address":"44, Travessa dos Venezianos, Cidade Baixa, Porto Alegre","cep":"90050-370","fav":false},{"id":7065939,"name":"Charlie Pub | Drinks & CoffeShop","type":"bar","address":"Rua General Lima e Silva, Cidade Baixa, Porto Alegre","cep":"90050-102","fav":false},{"id":7042383,"name":"Boteco Dona Neusa","type":"bar","address":"800, Rua General Lima e Silva, Cidade Baixa, Porto Alegre","cep":"90050-100","fav":false},{"id":6992505,"name":"Amberê","type":"bar","address":"Ciclovia Edvaldo Pereira Paiva, Praia de Belas, Porto Alegre","cep":"90013-900","fav":false},{"id":7029645,"name":"Tu Me Ama","type":"bar","address":"1062, Rua José do Patrocínio, Vila Cabo Rocha, Cidade Baixa","cep":"90050-193","fav":false},{"id":6959967,"name":"Toca da Coruja","type":"bar","address":"Rua Olavo Bilac, Vila Cabo Rocha, Azenha","cep":"90040-310","fav":false},{"id":375594889,"name":"Choro Jazz Café","type":"bar","address":"51, Rua Santana, Farroupilha, Porto Alegre","cep":"90040-370","fav":false},{"id":7033399,"name":"Leiteria 639","type":"bar","address":"633, Avenida Venâncio Aires, Santana, Porto Alegre","cep":"90040-193","fav":false},{"id":7076850,"name":"Petit Dalí Restobar","type":"bar","address":"52, Rua Vasco da Gama, Bom Fim, Porto Alegre","cep":"90420-111","fav":false},{"id":7053718,"name":"Alice's Bar","type":"bar","address":"859, Avenida Venâncio Aires, Santana, Porto Alegre","cep":"90040-193","fav":false},{"id":7036123,"name":"Hooroo - Australian Pub","type":"bar","address":"Rua Fernandes Vieira, Bom Fim, Porto Alegre","cep":"90035-091","fav":false},{"id":7092470,"name":"Raupp Bar e Restaurante","type":"bar","address":"693, Avenida Getúlio Vargas, Menino Deus, Porto Alegre","cep":"90150-000","fav":false},{"id":6960112,"name":"Boteco Imperial","type":"bar","address":"375, Rua Santana, Santana, Porto Alegre","cep":"90040-370","fav":false},{"id":7059665,"name":"Bar da Praça","type":"bar","address":"Rua General Jacinto Osório, Santana, Porto Alegre","cep":"90040-290","fav":false},{"id":7040593,"name":"Lagom Brewpub","type":"bar","address":"72, Rua Bento Figueiredo, Bom Fim, Porto Alegre","cep":"90035-140","fav":false},{"id":7055672,"name":"Padaria e Lancheria Pinguim","type":"bar","address":"Avenida Jerônimo de Ornelas, Santana, Porto Alegre","cep":"90040-340","fav":false},{"id":6967191,"name":"4Beer Menino Deus","type":"bar","address":"Avenida Getúlio Vargas, Menino Deus, Porto Alegre","cep":"90150-005","fav":true},{"id":7044487,"name":"Starbucks","type":"cafe","address":"300, Avenida Diário de Notícias, Cristal, Porto Alegre","cep":"90810-080","fav":false},{"id":7049666,"name":"Positano Café","type":"cafe","address":"155, Rua Vicente Failace, Tristeza, Porto Alegre","cep":"91900-200","fav":false},{"id":7041739,"name":"Press Iberê","type":"cafe","address":"2000, Avenida Padre Cacique, Cristal, Porto Alegre","cep":"90810-240","fav":false},{"id":7015104,"name":"Café & Prosa","type":"cafe","address":"963, Rua Doutor Mário Totta, Tristeza, Porto Alegre","cep":"91920-130","fav":true},{"id":7053985,"name":"Colônia Villanova Armazém e Café","type":"cafe","address":"600, Avenida João Salomoni, Vila Nova, Porto Alegre","cep":"91740-830","fav":false},{"id":373479381,"name":"Zagonel Lancheria e Cafeteria","type":"cafe","address":"3174, Rua Conselheiro Xavier da Costa, Ipanema, Porto Alegre","cep":"91760-530","fav":false},{"id":7110140,"name":"Nina Bar Café","type":"cafe","address":"1380, Avenida Guaíba, Ipanema, Porto Alegre","cep":"91760-060","fav":false},{"id":7048957,"name":"Oficina do Açaí Menino Deus","type":"cafe","address":"1138, Avenida Getúlio Vargas, Menino Deus, Porto Alegre","cep":"90150-005","fav":false},{"id":7065504,"name":"Café Central","type":"cafe","address":"1181, Avenida Praia de Belas, Praia de Belas, Porto Alegre","cep":"90110-001","fav":false},{"id":7033452,"name":"Gramado Gourmet","type":"cafe","address":"738, Avenida Getúlio Vargas, Menino Deus, Porto Alegre","cep":"90150-002","fav":false},{"id":7029720,"name":"Mulligan Irish Pub Zona Sul","type":"pub","address":"1468, Avenida Wenceslau Escobar, Tristeza, Porto Alegre","cep":"91900-000","fav":false},{"id":6982978,"name":"Salão de Festas","type":"pub","address":"Avenida Guaíba, Vila Assunção, Porto Alegre","cep":"91900-420","fav":false},{"id":7096029,"name":"Boteco Tirol Paseo","type":"pub","address":"Avenida Wenceslau Escobar, Tristeza, Porto Alegre","cep":"91900-050","fav":false},{"id":7073128,"name":"Boteco Natalicio Paseo Zona Sul","type":"pub","address":"Avenida Wenceslau Escobar, Tristeza, Porto Alegre","cep":"91900-050","fav":false},{"id":7026693,"name":"Mulligan Irish Pub Paseo","type":"pub","address":"1823, Avenida Wenceslau Escobar, Tristeza, Porto Alegre","cep":"91900-000","fav":false},{"id":7051471,"name":"Dado Pub Zona Sul","type":"pub","address":"Avenida Otto Niemeyer, Tristeza, Porto Alegre","cep":"91900-780","fav":false},{"id":7103351,"name":"Chalas (antigo Chalaça Bar)","type":"pub","address":"240, Praça Senador Alberto Pasqualine, Ipanema, Porto Alegre","cep":"91760-051","fav":false},{"id":7096683,"name":"Radical Bar","type":"pub","address":"11218, Rua Jardi, Ipanema, Porto Alegre","cep":"90680-000","fav":false},{"id":7027004,"name":"Bar dos Guri","type":"pub","address":"Rua José de Alencar, Menino Deus, Porto Alegre","cep":"90850-180","fav":false},{"id":7012788,"name":"Somos Encontro","type":"pub","address":"1053, Avenida Getúlio Vargas, Menino Deus, Porto Alegre","cep":"90150-050","fav":false},{"id":369074952,"name":"Somos Resenha","type":"pub","address":"Avenida Niterói, Medianeira, Porto Alegre","cep":"90880-270","fav":false},{"id":6808660,"name":"Simples","type":"cafe","address":"1083, Rua Doutor Barcelos, Centro, Canoas","cep":"92310-200","fav":false},{"id":6806280,"name":"Gurias Doceiras","type":"cafe","address":"40, Rua Coronel Marcelino, Centro, Canoas","cep":"92310-060","fav":false},{"id":267304291,"name":"Malinche","type":"cafe","address":"Vía 238, Canoas Abajo, Canoas","cep":"61003","fav":false},{"id":6794628,"name":"Marquês Bier","type":"pub","address":"1202, Rua Doutor Barcelos, Centro, Canoas","cep":"92310-200","fav":false},{"id":6823718,"name":"Sagrado Pub","type":"pub","address":"65, Rua Frederico Guilherme Ludwig, Centro, Canoas","cep":"92310-240","fav":false},{"id":6800550,"name":"BrechóPub","type":"pub","address":"285, Rua Felipe de Noronha, Marechal Rondon, Canoas","cep":"92020-303","fav":false},{"id":6838128,"name":"Inner 33 Beer Pub","type":"pub","address":"1861, Avenida Açucena, Estância Velha, Canoas","cep":"92020-000","fav":false},{"id":6808713,"name":"Bar do Valtair","type":"pub","address":"Rua Uruguaiana, Mathias Velho, Canoas","cep":"92330-370","fav":false},{"id":6804359,"name":"Bar e Lancheria J & J","type":"pub","address":"Rua Uruguaiana, Mathias Velho, Canoas","cep":"92330-370","fav":false},{"id":6809933,"name":"COT-Clínica Ortopedia e Traumatologia","type":"hospital","address":"3040, Avenida Victor Barreto, Centro, Canoas","cep":"92010-000","fav":false},{"id":6795846,"name":"UPA12H Idoso","type":"hospital","address":"6184, Avenida Guilherme Schell, Centro, Canoas","cep":"92310-564","fav":false},{"id":6806687,"name":"Hospital da Aeronáutica de Canoas - HACO","type":"hospital","address":"Avenida A, Fátima, Canoas","cep":"92010-050","fav":false},{"id":6794978,"name":"Unimed","type":"hospital","address":"Avenida Boqueirão, Igara, Canoas","cep":"92020-970","fav":false},{"id":6792979,"name":"Hospital Nossa Senhora das Graças","type":"hospital","address":"1864, Avenida Santos Ferreira, Marechal Rondon, Canoas","cep":"92030-300","fav":false},{"id":6811958,"name":"HPSC","type":"hospital","address":"Rua Caçapava, Mathias Velho, Canoas","cep":"92330-290","fav":false},{"id":6828376,"name":"Hospital Pronto Socorro de Canoas","type":"hospital","address":"Rua Caçapava, Mathias Velho, Canoas","cep":"92330-290","fav":false},{"id":6804840,"name":"UPA Caçapava","type":"hospital","address":"201, Rua Caçapava, Mathias Velho, Canoas","cep":"92330-290","fav":false},{"id":6860749,"name":"UPA24H Rio Branco","type":"hospital","address":"600, Rua Cairú, Rio Branco, Canoas","cep":"92200-352","fav":false},{"id":6803824,"name":"Ambulatório","type":"hospital","address":"Rua Miguel Tostes, São José, Canoas","cep":"92420-170","fav":false},{"id":6896237,"name":"Hospital Universitário de Canoas","type":"hospital","address":"Rua Miguel Tostes, São José, Canoas","cep":"92420-170","fav":false},{"id":6807520,"name":"UPA16h Nitéroi","type":"hospital","address":"534, Rua Primeiro de Maio, Niterói, Canoas","cep":"92120-220","fav":false}]}
+{
+	"all": [
+		{
+			"id": 7099325,
+			"name": "Santa Casa de Misericórdia",
+			"type": "hospital",
+			"address": "Rua Professor Annes Dias, Centro Histórico, Porto Alegre",
+			"cep": "90020-160",
+			"fav": false
+		},
+		{
+			"id": 6962735,
+			"name": "Policlínica Militar de Porto Alegre",
+			"type": "hospital",
+			"address": "651, Avenida João Pessoa, Cidade Baixa, Porto Alegre",
+			"cep": "90040-000",
+			"fav": false
+		},
+		{
+			"id": 7051940,
+			"name": "Hospital Beneficência Portuguesa",
+			"type": "hospital",
+			"address": "Rua da Conceição, Independência, Porto Alegre",
+			"cep": "90035-070",
+			"fav": false
+		},
+		{
+			"id": 7056734,
+			"name": "Hospital Presidente Vargas",
+			"type": "hospital",
+			"address": "661, Avenida Independência, Bom Fim, Porto Alegre",
+			"cep": "90035-052",
+			"fav": false
+		},
+		{
+			"id": 6992949,
+			"name": "Hospital Divina Providência",
+			"type": "hospital",
+			"address": "145, Rua da Gruta, Cascata, Porto Alegre",
+			"cep": "91712-260",
+			"fav": false
+		},
+		{
+			"id": 7088224,
+			"name": "",
+			"type": "hospital",
+			"address": "Belém Velho, Porto Alegre, Região Geográfica Imediata de Porto Alegre",
+			"cep": "91712-160",
+			"fav": false
+		},
+		{
+			"id": 6991957,
+			"name": "Futuras instalações do Complexo Hospitalar São Miguel (antigo Hospital Parque Belém)",
+			"type": "hospital",
+			"address": "Avenida Professor Oscar Pereira, Belém Velho, Porto Alegre",
+			"cep": "91712-160",
+			"fav": false
+		},
+		{
+			"id": 7024695,
+			"name": "Hospital Porto Alegre",
+			"type": "hospital",
+			"address": "Rua Doutor Sebastião Leão, Vila Cabo Rocha, Azenha",
+			"cep": "90050-010",
+			"fav": false
+		},
+		{
+			"id": 7067523,
+			"name": "Centro de Saúde Modelo",
+			"type": "hospital",
+			"address": "55, Avenida Jerônimo de Ornelas, Santana, Porto Alegre",
+			"cep": "90040-341",
+			"fav": false
+		},
+		{
+			"id": 7033980,
+			"name": "Suksteris - Núcleo de Medicina",
+			"type": "hospital",
+			"address": "542, Rua Fernandes Vieira, Bom Fim, Porto Alegre",
+			"cep": "90035-091",
+			"fav": false
+		},
+		{
+			"id": 7027285,
+			"name": "Hospital de Pronto Socorro",
+			"type": "hospital",
+			"address": "Avenida Venâncio Aires, Santana, Porto Alegre",
+			"cep": "90040-180",
+			"fav": false
+		},
+		{
+			"id": 7038727,
+			"name": "Hospital Espírita de Porto Alegre",
+			"type": "hospital",
+			"address": "175, Praça Simões Lopes Neto, Teresópolis, Porto Alegre",
+			"cep": "91720-440",
+			"fav": false
+		},
+		{
+			"id": 7018970,
+			"name": "Hospital Santa Ana",
+			"type": "hospital",
+			"address": "175, Praça Simões Lopes Neto, Teresópolis, Porto Alegre",
+			"cep": "91720-440",
+			"fav": false
+		},
+		{
+			"id": 7113426,
+			"name": "Hospital Moinhos de Vento",
+			"type": "hospital",
+			"address": "910, Rua Ramiro Barcelos, Moinhos de Vento, Porto Alegre",
+			"cep": "90035-000",
+			"fav": false
+		},
+		{
+			"id": 7086965,
+			"name": "Hospital Ernesto Dornelles",
+			"type": "hospital",
+			"address": "1801, Avenida Ipiranga, Vila Cabo Rocha, Azenha",
+			"cep": "90160-092",
+			"fav": false
+		},
+		{
+			"id": 7062939,
+			"name": "Hospital Fêmina",
+			"type": "hospital",
+			"address": "17, Rua Mostardeiro, Rio Branco, Porto Alegre",
+			"cep": "90430-001",
+			"fav": false
+		},
+		{
+			"id": 6926200,
+			"name": "Hospital de Clínicas",
+			"type": "hospital",
+			"address": "2350, Rua Ramiro Barcelos, Santa Cecília, Porto Alegre",
+			"cep": "90035-903",
+			"fav": false
+		},
+		{
+			"id": 7084643,
+			"name": "Pronto Socorro Cruz Azul",
+			"type": "hospital",
+			"address": "233, Rua Mostardeiro, Rio Branco, Porto Alegre",
+			"cep": "90430-001",
+			"fav": false
+		},
+		{
+			"id": 7014534,
+			"name": "Associação Hospitalar Vila Nova",
+			"type": "hospital",
+			"address": "155, Rua Catarino Andreatta, Vila Nova, Porto Alegre",
+			"cep": "91750-040",
+			"fav": false
+		},
+		{
+			"id": 7038355,
+			"name": "Hospital Mãe de Deus",
+			"type": "hospital",
+			"address": "286, Rua José de Alencar, Menino Deus, Porto Alegre",
+			"cep": "90880-480",
+			"fav": false
+		},
+		{
+			"id": 7077461,
+			"name": "Instituto de Cardiologia",
+			"type": "hospital",
+			"address": "Avenida Princesa Isabel, Santana, Porto Alegre",
+			"cep": "90040-373",
+			"fav": false
+		},
+		{
+			"id": 7074268,
+			"name": "Unidade Álvaro Alvim - HCPA",
+			"type": "hospital",
+			"address": "400, Rua Professor Álvaro Alvim, Rio Branco, Porto Alegre",
+			"cep": "90420-020",
+			"fav": false
+		},
+		{
+			"id": 7058154,
+			"name": "Hospital Petrópolis",
+			"type": "hospital",
+			"address": "2040, Avenida Coronel Lucas de Oliveira, Bela Vista, Porto Alegre",
+			"cep": "90440-010",
+			"fav": false
+		},
+		{
+			"id": 7049510,
+			"name": "Pronto Atendimento Cruzeiro do Sul",
+			"type": "hospital",
+			"address": "151, Rua Professor Manoel Lobato, Santa Tereza, Porto Alegre",
+			"cep": "90850-530",
+			"fav": false
+		},
+		{
+			"id": 7011459,
+			"name": "Hospital Militar de Área de Porto Alegre",
+			"type": "hospital",
+			"address": "450, Avenida Mariland, Auxiliadora, Porto Alegre",
+			"cep": "90440-190",
+			"fav": false
+		},
+		{
+			"id": 7087027,
+			"name": "Hospital Sanatório Partenon",
+			"type": "hospital",
+			"address": "3722, Avenida Bento Gonçalves, Partenon, Porto Alegre",
+			"cep": "90650-001",
+			"fav": false
+		},
+		{
+			"id": 7063618,
+			"name": "Hospital Psiquiátrico São Pedro",
+			"type": "hospital",
+			"address": "2460, Avenida Bento Gonçalves, Partenon, Porto Alegre",
+			"cep": "90650-001",
+			"fav": false
+		},
+		{
+			"id": 7074454,
+			"name": "Hospital São Lucas da PUCRS",
+			"type": "hospital",
+			"address": "6690, Avenida Ipiranga, Jardim Botânico, Porto Alegre",
+			"cep": "90610-000",
+			"fav": false
+		},
+		{
+			"id": 6949868,
+			"name": "Instituto do Cérebro",
+			"type": "hospital",
+			"address": "PUCRS, Jardim Botânico, Porto Alegre",
+			"cep": "90690-130",
+			"fav": false
+		},
+		{
+			"id": 7045902,
+			"name": "MedCenter",
+			"type": "hospital",
+			"address": "569, Avenida Soledade, Três Figueiras, Porto Alegre",
+			"cep": "90470-340",
+			"fav": false
+		},
+		{
+			"id": 7055567,
+			"name": "Centro de Saúde IAPI",
+			"type": "hospital",
+			"address": "90, Rua 3 de Abril, Vila do IAPI, Passo da Areia",
+			"cep": "90520-200",
+			"fav": false
+		},
+		{
+			"id": 7076201,
+			"name": "Hospital Independência",
+			"type": "hospital",
+			"address": "450, Avenida Antônio de Carvalho, Jardim das Bandeiras, Jardim Carvalho",
+			"cep": "91430-000",
+			"fav": false
+		},
+		{
+			"id": 7044681,
+			"name": "Hospital da Brigada Militar de Porto Alegre",
+			"type": "hospital",
+			"address": "155, Rua Doutor Castro de Menezes, Cristal, Porto Alegre",
+			"cep": "91900-590",
+			"fav": false
+		},
+		{
+			"id": 7062796,
+			"name": "Pronto-Atendimento Saúde Restinga",
+			"type": "hospital",
+			"address": "Rua Álvaro Difini, 3ª UV, Vila Nova Restinga",
+			"cep": "91790-010",
+			"fav": false
+		},
+		{
+			"id": 7004917,
+			"name": "Hospital Restinga e Extremo-Sul",
+			"type": "hospital",
+			"address": "3330, Rua Alberto Hoffmann, Distrito Industrial da Restinga, Restinga",
+			"cep": "91796-000",
+			"fav": false
+		},
+		{
+			"id": 6984370,
+			"name": "Hospital Nossa Senhora da Conceição",
+			"type": "hospital",
+			"address": "596, Avenida Francisco Trein, Cristo Redentor, Porto Alegre",
+			"cep": "91350-200",
+			"fav": false
+		},
+		{
+			"id": 7089530,
+			"name": "",
+			"type": "hospital",
+			"address": "Cristo Redentor, Porto Alegre, Região Geográfica Imediata de Porto Alegre",
+			"cep": "91350-200",
+			"fav": false
+		},
+		{
+			"id": 7078428,
+			"name": "Hospital Cristo Redentor",
+			"type": "hospital",
+			"address": "20, Rua Domingos Rubbo, Cristo Redentor, Porto Alegre",
+			"cep": "91040-000",
+			"fav": false
+		},
+		{
+			"id": 7052558,
+			"name": "Hospital da Criança Conceição",
+			"type": "hospital",
+			"address": "565, Rua Álvares Cabral, Cristo Redentor, Porto Alegre",
+			"cep": "91350-200",
+			"fav": false
+		},
+		{
+			"id": 7076918,
+			"name": "Hospital Banco de Olhos",
+			"type": "hospital",
+			"address": "285, Rua Engenheiro Walter Boehl, Vila Ipiranga, Porto Alegre",
+			"cep": "91360-160",
+			"fav": false
+		},
+		{
+			"id": 7050651,
+			"name": "Tuyuty Pub",
+			"type": "pub",
+			"address": "Rua Riachuelo, Centro Histórico, Porto Alegre",
+			"cep": "90010-300",
+			"fav": false
+		},
+		{
+			"id": 7059942,
+			"name": "Armazem POA",
+			"type": "pub",
+			"address": "786, Passeio Outono, Centro Histórico, Porto Alegre",
+			"cep": "90020-024",
+			"fav": false
+		},
+		{
+			"id": 7051188,
+			"name": "",
+			"type": "pub",
+			"address": "Centro Histórico, Porto Alegre, Região Geográfica Imediata de Porto Alegre",
+			"cep": "90010-241",
+			"fav": false
+		},
+		{
+			"id": 7069425,
+			"name": "Boteco 787",
+			"type": "pub",
+			"address": "787, Rua dos Andradas, Centro Histórico, Porto Alegre",
+			"cep": "90020-001",
+			"fav": false
+		},
+		{
+			"id": 7075605,
+			"name": "Bar Sobradinho",
+			"type": "pub",
+			"address": "Rua Marechal Floriano Peixoto, Centro Histórico, Porto Alegre",
+			"cep": "90020-061",
+			"fav": false
+		},
+		{
+			"id": 7052149,
+			"name": "Champanharia Ovelha Negra",
+			"type": "pub",
+			"address": "Rua Duque de Caxias, Centro Histórico, Porto Alegre",
+			"cep": "90010-280",
+			"fav": false
+		},
+		{
+			"id": 7023431,
+			"name": "Natalício",
+			"type": "pub",
+			"address": "Rua Marechal Floriano Peixoto, Centro Histórico, Porto Alegre",
+			"cep": "90020-024",
+			"fav": false
+		},
+		{
+			"id": 7075158,
+			"name": "Bar e Restaurante Sirocco",
+			"type": "pub",
+			"address": "Rua Riachuelo, Centro Histórico, Porto Alegre",
+			"cep": "90010-273",
+			"fav": false
+		},
+		{
+			"id": 7077330,
+			"name": "Grand's",
+			"type": "pub",
+			"address": "Rua General Lima e Silva, Centro Histórico, Porto Alegre",
+			"cep": "90010-283",
+			"fav": false
+		},
+		{
+			"id": 7030432,
+			"name": "Solar Coruja",
+			"type": "pub",
+			"address": "525, Rua Riachuelo, Centro Histórico, Porto Alegre",
+			"cep": "90010-270",
+			"fav": false
+		},
+		{
+			"id": 7042345,
+			"name": "Casa do Cachorro",
+			"type": "pub",
+			"address": "Rua General Lima e Silva, Centro Histórico, Porto Alegre",
+			"cep": "90070-150",
+			"fav": false
+		},
+		{
+			"id": 7063364,
+			"name": "Parangolé",
+			"type": "pub",
+			"address": "240, Rua General Lima e Silva, Cidade Baixa, Porto Alegre",
+			"cep": "90050-102",
+			"fav": false
+		},
+		{
+			"id": 7051545,
+			"name": "",
+			"type": "pub",
+			"address": "Cidade Baixa, Porto Alegre, Região Geográfica Imediata de Porto Alegre",
+			"cep": "90070-150",
+			"fav": false
+		},
+		{
+			"id": 6937267,
+			"name": "Barônia",
+			"type": "pub",
+			"address": "254, Rua General Lima e Silva, Cidade Baixa, Porto Alegre",
+			"cep": "90050-102",
+			"fav": false
+		},
+		{
+			"id": 7056352,
+			"name": "Lima's Bar",
+			"type": "pub",
+			"address": "269, Rua General Lima e Silva, Cidade Baixa, Porto Alegre",
+			"cep": "90050-101",
+			"fav": false
+		},
+		{
+			"id": 7053890,
+			"name": "Malvadeza Pub",
+			"type": "pub",
+			"address": "Travessa do Carmo, Cidade Baixa, Porto Alegre",
+			"cep": "90050-210",
+			"fav": false
+		},
+		{
+			"id": 7056250,
+			"name": "",
+			"type": "pub",
+			"address": "Rua General Lima e Silva, Cidade Baixa, Porto Alegre",
+			"cep": "90050-101",
+			"fav": false
+		},
+		{
+			"id": 7040445,
+			"name": "Copão",
+			"type": "pub",
+			"address": "312, Rua General Lima e Silva, Cidade Baixa, Porto Alegre",
+			"cep": "90050-101",
+			"fav": false
+		},
+		{
+			"id": 7029405,
+			"name": "Cotiporâ",
+			"type": "pub",
+			"address": "325, Rua General Lima e Silva, Cidade Baixa, Porto Alegre",
+			"cep": "90050-101",
+			"fav": false
+		},
+		{
+			"id": 7046578,
+			"name": "Bola 8 Snoker Bar",
+			"type": "pub",
+			"address": "272, Rua José do Patrocínio, Cidade Baixa, Porto Alegre",
+			"cep": "90050-002",
+			"fav": false
+		},
+		{
+			"id": 7046678,
+			"name": "Cavanhas",
+			"type": "pub",
+			"address": "373, Rua General Lima e Silva, Cidade Baixa, Porto Alegre",
+			"cep": "90050-101",
+			"fav": false
+		},
+		{
+			"id": 6981914,
+			"name": "Mondo Cane",
+			"type": "pub",
+			"address": "325, Rua João Alfredo, Cidade Baixa, Porto Alegre",
+			"cep": "90050-230",
+			"fav": false
+		},
+		{
+			"id": 7022318,
+			"name": "Divina Comédia",
+			"type": "pub",
+			"address": "Rua da República, Cidade Baixa, Porto Alegre",
+			"cep": "90050-321",
+			"fav": false
+		},
+		{
+			"id": 7091824,
+			"name": "Estação Cidade Baixa",
+			"type": "pub",
+			"address": "417, Rua General Lima e Silva, Cidade Baixa, Porto Alegre",
+			"cep": "90050-101",
+			"fav": false
+		},
+		{
+			"id": 7018934,
+			"name": "Pinacoteca",
+			"type": "pub",
+			"address": "Rua da República, Cidade Baixa, Porto Alegre",
+			"cep": "90050-320",
+			"fav": false
+		},
+		{
+			"id": 7079865,
+			"name": "I Love CB",
+			"type": "pub",
+			"address": "695, Rua da República, Cidade Baixa, Porto Alegre",
+			"cep": "90050-230",
+			"fav": false
+		},
+		{
+			"id": 7053076,
+			"name": "Boteco Pedrini",
+			"type": "pub",
+			"address": "431, Rua General Lima e Silva, Cidade Baixa, Porto Alegre",
+			"cep": "90050-101",
+			"fav": false
+		},
+		{
+			"id": 7037637,
+			"name": "Estancia de São Pedro",
+			"type": "pub",
+			"address": "Rua João Alfredo, Cidade Baixa, Porto Alegre",
+			"cep": "90050-230",
+			"fav": false
+		},
+		{
+			"id": 7029711,
+			"name": "Bar Bilhar Psiquiatra",
+			"type": "pub",
+			"address": "Rua João Alfredo, Cidade Baixa, Porto Alegre",
+			"cep": "90050-230",
+			"fav": false
+		},
+		{
+			"id": 7037685,
+			"name": "The Cavern Beer",
+			"type": "pub",
+			"address": "473, Rua José do Patrocínio, Cidade Baixa, Porto Alegre",
+			"cep": "90050-003",
+			"fav": false
+		},
+		{
+			"id": 6980736,
+			"name": "Reçaka Bar",
+			"type": "pub",
+			"address": "495, Rua José do Patrocínio, Cidade Baixa, Porto Alegre",
+			"cep": "90050-002",
+			"fav": false
+		},
+		{
+			"id": 7060569,
+			"name": "Pinguim",
+			"type": "pub",
+			"address": "505, Rua General Lima e Silva, Cidade Baixa, Porto Alegre",
+			"cep": "90050-100",
+			"fav": false
+		},
+		{
+			"id": 7036668,
+			"name": "Clube Silêncio",
+			"type": "pub",
+			"address": "449, Rua João Alfredo, Cidade Baixa, Porto Alegre",
+			"cep": "90050-230",
+			"fav": false
+		},
+		{
+			"id": 7039467,
+			"name": "Casa Rosa CB",
+			"type": "pub",
+			"address": "163, Rua da República, Cidade Baixa, Porto Alegre",
+			"cep": "90050-140",
+			"fav": false
+		},
+		{
+			"id": 7028255,
+			"name": "Entreato",
+			"type": "pub",
+			"address": "163, Rua da República, Cidade Baixa, Porto Alegre",
+			"cep": "90050-140",
+			"fav": false
+		},
+		{
+			"id": 7078566,
+			"name": "Preto Zé",
+			"type": "pub",
+			"address": "486, Rua João Alfredo, Cidade Baixa, Porto Alegre",
+			"cep": "90050-230",
+			"fav": false
+		},
+		{
+			"id": 7075680,
+			"name": "Graffiti Bar",
+			"type": "pub",
+			"address": "496, Rua João Alfredo, Cidade Baixa, Porto Alegre",
+			"cep": "90050-230",
+			"fav": false
+		},
+		{
+			"id": 7047182,
+			"name": "Espaço Cultural 512",
+			"type": "pub",
+			"address": "512, Rua João Alfredo, Cidade Baixa, Porto Alegre",
+			"cep": "90050-230",
+			"fav": false
+		},
+		{
+			"id": 7056745,
+			"name": "Toca",
+			"type": "pub",
+			"address": "515, Rua Luiz Afonso, Cidade Baixa, Porto Alegre",
+			"cep": "90050-310",
+			"fav": false
+		},
+		{
+			"id": 7083404,
+			"name": "Antique Bar e Raridades",
+			"type": "pub",
+			"address": "533, Rua João Alfredo, Cidade Baixa, Porto Alegre",
+			"cep": "90050-310",
+			"fav": false
+		},
+		{
+			"id": 7066508,
+			"name": "Du'Attos",
+			"type": "restaurant",
+			"address": "1, Praça Marechal Deodoro, Centro Histórico, Porto Alegre",
+			"cep": "90010-300",
+			"fav": false
+		},
+		{
+			"id": 7027423,
+			"name": "Bistrô do Solar",
+			"type": "restaurant",
+			"address": "148, Praça Marechal Deodoro, Centro Histórico, Porto Alegre",
+			"cep": "90010-250",
+			"fav": false
+		},
+		{
+			"id": 7005254,
+			"name": "",
+			"type": "restaurant",
+			"address": "Centro Histórico, Porto Alegre, Região Geográfica Imediata de Porto Alegre",
+			"cep": "90010-250",
+			"fav": false
+		},
+		{
+			"id": 7088938,
+			"name": "",
+			"type": "restaurant",
+			"address": "Centro Histórico, Porto Alegre, Região Geográfica Imediata de Porto Alegre",
+			"cep": "90010-370",
+			"fav": false
+		},
+		{
+			"id": 7080916,
+			"name": "",
+			"type": "restaurant",
+			"address": "Centro Histórico, Porto Alegre, Região Geográfica Imediata de Porto Alegre",
+			"cep": "90010-230",
+			"fav": false
+		},
+		{
+			"id": 7055753,
+			"name": "Sede Social do Clube do Comércio",
+			"type": "restaurant",
+			"address": "1085, Rua dos Andradas, Centro Histórico, Porto Alegre",
+			"cep": "90020-007",
+			"fav": false
+		},
+		{
+			"id": 7052928,
+			"name": "Via Natural",
+			"type": "restaurant",
+			"address": "933, Rua dos Andradas, Centro Histórico, Porto Alegre",
+			"cep": "90020-005",
+			"fav": false
+		},
+		{
+			"id": 7052974,
+			"name": "",
+			"type": "restaurant",
+			"address": "Centro Histórico, Porto Alegre, Região Geográfica Imediata de Porto Alegre",
+			"cep": "90020-001",
+			"fav": false
+		},
+		{
+			"id": 7038889,
+			"name": "Restaurante Soledade",
+			"type": "restaurant",
+			"address": "315, Rua General João Manoel, Centro Histórico, Porto Alegre",
+			"cep": "90020-005",
+			"fav": false
+		},
+		{
+			"id": 7080496,
+			"name": "Restaurante Vivenda Portuguesa",
+			"type": "restaurant",
+			"address": "Rua Jerônimo Coelho, Centro Histórico, Porto Alegre",
+			"cep": "90010-241",
+			"fav": false
+		},
+		{
+			"id": 7060079,
+			"name": "Il Pomodorino",
+			"type": "restaurant",
+			"address": "583, Rua Coronel Fernando Machado, Centro Histórico, Porto Alegre",
+			"cep": "90010-312",
+			"fav": false
+		},
+		{
+			"id": 7057637,
+			"name": "Veneza",
+			"type": "restaurant",
+			"address": "839, Rua dos Andradas, Centro Histórico, Porto Alegre",
+			"cep": "90020-005",
+			"fav": false
+		},
+		{
+			"id": 7057712,
+			"name": "",
+			"type": "restaurant",
+			"address": "Centro Histórico, Porto Alegre, Região Geográfica Imediata de Porto Alegre",
+			"cep": "90010-241",
+			"fav": false
+		},
+		{
+			"id": 7062721,
+			"name": "Natureza",
+			"type": "restaurant",
+			"address": "Travessa Acylino de Carvalho, Centro Histórico, Porto Alegre",
+			"cep": "90010-200",
+			"fav": false
+		},
+		{
+			"id": 7062609,
+			"name": "Rossi",
+			"type": "restaurant",
+			"address": "822, Rua dos Andradas, Centro Histórico, Porto Alegre",
+			"cep": "90020-001",
+			"fav": false
+		},
+		{
+			"id": 7054120,
+			"name": "",
+			"type": "restaurant",
+			"address": "Centro Histórico, Porto Alegre, Região Geográfica Imediata de Porto Alegre",
+			"cep": "90010-312",
+			"fav": false
+		},
+		{
+			"id": 7067107,
+			"name": "",
+			"type": "restaurant",
+			"address": "Rua dos Andradas, Centro Histórico, Porto Alegre",
+			"cep": "90020-001",
+			"fav": false
+		},
+		{
+			"id": 7057516,
+			"name": "Ponto Grill",
+			"type": "restaurant",
+			"address": "Avenida Borges de Medeiros, Centro Histórico, Porto Alegre",
+			"cep": "90020-025",
+			"fav": false
+		},
+		{
+			"id": 7028687,
+			"name": "Bistrô do MARGS",
+			"type": "restaurant",
+			"address": "Praça da Alfândega, Centro Histórico, Porto Alegre",
+			"cep": "90010-150",
+			"fav": false
+		},
+		{
+			"id": 7037505,
+			"name": "Moeda Bar e Restaurante",
+			"type": "restaurant",
+			"address": "Rua Cassiano do Nascimento, Centro Histórico, Porto Alegre",
+			"cep": "90010-070",
+			"fav": false
+		},
+		{
+			"id": 7029636,
+			"name": "Tauta",
+			"type": "restaurant",
+			"address": "804, Rua dos Andradas, Centro Histórico, Porto Alegre",
+			"cep": "90020-001",
+			"fav": false
+		},
+		{
+			"id": 7059922,
+			"name": "Restaurante Estrela do Porto",
+			"type": "restaurant",
+			"address": "Rua Jerônimo Coelho, Centro Histórico, Porto Alegre",
+			"cep": "90020-110",
+			"fav": false
+		},
+		{
+			"id": 7030848,
+			"name": "Restaurante Chicago Grill",
+			"type": "restaurant",
+			"address": "1040, Rua Demétrio Ribeiro, Centro Histórico, Porto Alegre",
+			"cep": "90010-310",
+			"fav": false
+		},
+		{
+			"id": 7070529,
+			"name": "Salgaditos",
+			"type": "restaurant",
+			"address": "Avenida Senador Salgado Filho, Centro Histórico, Porto Alegre",
+			"cep": "90010-200",
+			"fav": false
+		},
+		{
+			"id": 7059868,
+			"name": "Vereda",
+			"type": "restaurant",
+			"address": "768, Rua dos Andradas, Centro Histórico, Porto Alegre",
+			"cep": "90020-001",
+			"fav": false
+		},
+		{
+			"id": 6928744,
+			"name": "Olá",
+			"type": "restaurant",
+			"address": "Avenida Borges de Medeiros, Centro Histórico, Porto Alegre",
+			"cep": "90020-025",
+			"fav": false
+		},
+		{
+			"id": 7017943,
+			"name": "Restaurante Vida",
+			"type": "restaurant",
+			"address": "Rua Jerônimo Coelho, Centro Histórico, Porto Alegre",
+			"cep": "90020-110",
+			"fav": false
+		},
+		{
+			"id": 7069026,
+			"name": "Piato Mio",
+			"type": "restaurant",
+			"address": "647, Rua 7 de Setembro, Centro Histórico, Porto Alegre",
+			"cep": "90020-003",
+			"fav": false
+		},
+		{
+			"id": 7053037,
+			"name": "Atelier de Massas",
+			"type": "restaurant",
+			"address": "1482, Rua Riachuelo, Centro Histórico, Porto Alegre",
+			"cep": "90010-273",
+			"fav": false
+		},
+		{
+			"id": 7041768,
+			"name": "",
+			"type": "restaurant",
+			"address": "Centro Histórico, Porto Alegre, Região Geográfica Imediata de Porto Alegre",
+			"cep": "90010-282",
+			"fav": false
+		},
+		{
+			"id": 7053822,
+			"name": "Restaurante Onze e Meia",
+			"type": "restaurant",
+			"address": "Rua Demétrio Ribeiro, Centro Histórico, Porto Alegre",
+			"cep": "90010-310",
+			"fav": false
+		},
+		{
+			"id": 7051014,
+			"name": "Encantado",
+			"type": "restaurant",
+			"address": "Rua Riachuelo, Centro Histórico, Porto Alegre",
+			"cep": "90010-273",
+			"fav": false
+		},
+		{
+			"id": 7062345,
+			"name": "Restaurante Martinelli",
+			"type": "restaurant",
+			"address": "Rua Riachuelo, Centro Histórico, Porto Alegre",
+			"cep": "90010-273",
+			"fav": false
+		},
+		{
+			"id": 7088560,
+			"name": "Refugio's",
+			"type": "restaurant",
+			"address": "717, Rua dos Andradas, Centro Histórico, Porto Alegre",
+			"cep": "90020-001",
+			"fav": false
+		},
+		{
+			"id": 6937968,
+			"name": "",
+			"type": "restaurant",
+			"address": "Centro Histórico, Porto Alegre, Região Geográfica Imediata de Porto Alegre",
+			"cep": "90010-270",
+			"fav": false
+		},
+		{
+			"id": 7068750,
+			"name": "Restaurante Pirirí",
+			"type": "restaurant",
+			"address": "Rua General Vitorino, Centro Histórico, Porto Alegre",
+			"cep": "90020-171",
+			"fav": false
+		},
+		{
+			"id": 7098129,
+			"name": "Fettuccine",
+			"type": "restaurant",
+			"address": "685, Rua dos Andradas, Centro Histórico, Porto Alegre",
+			"cep": "90020-001",
+			"fav": false
+		},
+		{
+			"id": 7030849,
+			"name": "Palácio do Buffet",
+			"type": "restaurant",
+			"address": "Rua General Câmara, Centro Histórico, Porto Alegre",
+			"cep": "90001-970",
+			"fav": false
+		},
+		{
+			"id": 6994938,
+			"name": "Nova Vida",
+			"type": "restaurant",
+			"address": "1182, Rua Demétrio Ribeiro, Centro Histórico, Porto Alegre",
+			"cep": "90010-310",
+			"fav": false
+		},
+		{
+			"id": 7038778,
+			"name": "Mr. Chau",
+			"type": "restaurant",
+			"address": "171, Rua Coronel Genuíno, Centro Histórico, Porto Alegre",
+			"cep": "90020-025",
+			"fav": false
+		},
+		{
+			"id": 7039602,
+			"name": "Tuim",
+			"type": "bar",
+			"address": "Rua General Câmara, Centro Histórico, Porto Alegre",
+			"cep": "91920-230",
+			"fav": false
+		},
+		{
+			"id": 6999835,
+			"name": "",
+			"type": "bar",
+			"address": "Centro Histórico, Porto Alegre, Região Geográfica Imediata de Porto Alegre",
+			"cep": "90010-370",
+			"fav": false
+		},
+		{
+			"id": 6989613,
+			"name": "",
+			"type": "bar",
+			"address": "Avenida Borges de Medeiros, Centro Histórico, Porto Alegre",
+			"cep": "90020-024",
+			"fav": false
+		},
+		{
+			"id": 7057770,
+			"name": "",
+			"type": "bar",
+			"address": "Centro Histórico, Porto Alegre, Região Geográfica Imediata de Porto Alegre",
+			"cep": "90010-310",
+			"fav": false
+		},
+		{
+			"id": 7064381,
+			"name": "",
+			"type": "bar",
+			"address": "Centro Histórico, Porto Alegre, Região Geográfica Imediata de Porto Alegre",
+			"cep": "90010-312",
+			"fav": false
+		},
+		{
+			"id": 6981377,
+			"name": "",
+			"type": "bar",
+			"address": "Centro Histórico, Porto Alegre, Região Geográfica Imediata de Porto Alegre",
+			"cep": "90020-025",
+			"fav": false
+		},
+		{
+			"id": 7027515,
+			"name": "Champanharia 690",
+			"type": "bar",
+			"address": "690- CEP  90010-280, Rua Duque de Caxias, Centro Histórico",
+			"cep": "90010-280",
+			"fav": false
+		},
+		{
+			"id": 6961970,
+			"name": "Espumantes La Cava",
+			"type": "bar",
+			"address": "1176, Rua Coronel Fernando Machado, Centro Histórico, Porto Alegre",
+			"cep": "90020-025",
+			"fav": false
+		},
+		{
+			"id": 7038643,
+			"name": "Brechó do Futebol",
+			"type": "bar",
+			"address": "1188, Rua Coronel Fernando Machado, Centro Histórico, Porto Alegre",
+			"cep": "90020-025",
+			"fav": false
+		},
+		{
+			"id": 7057686,
+			"name": "Hot Dog Retro",
+			"type": "bar",
+			"address": "266, Rua General Lima e Silva, Cidade Baixa, Porto Alegre",
+			"cep": "90070-150",
+			"fav": false
+		},
+		{
+			"id": 6972155,
+			"name": "Xirú",
+			"type": "bar",
+			"address": "Avenida João Pessoa, Centro Histórico, Porto Alegre",
+			"cep": "90050-170",
+			"fav": false
+		},
+		{
+			"id": 7060630,
+			"name": "Locals Only CB",
+			"type": "bar",
+			"address": "1086, Rua Sarmento Leite, Cidade Baixa, Porto Alegre",
+			"cep": "90050-001",
+			"fav": false
+		},
+		{
+			"id": 7025348,
+			"name": "Rei pública",
+			"type": "bar",
+			"address": "Rua José do Patrocínio, Cidade Baixa, Porto Alegre",
+			"cep": "90050-002",
+			"fav": false
+		},
+		{
+			"id": 7065786,
+			"name": "",
+			"type": "bar",
+			"address": "Centro Histórico, Porto Alegre, Região Geográfica Imediata de Porto Alegre",
+			"cep": "90010-410",
+			"fav": false
+		},
+		{
+			"id": 7070144,
+			"name": "",
+			"type": "bar",
+			"address": "Cidade Baixa, Porto Alegre, Região Geográfica Imediata de Porto Alegre",
+			"cep": "90050-140",
+			"fav": false
+		},
+		{
+			"id": 7060920,
+			"name": "Apolinário",
+			"type": "bar",
+			"address": "Rua José do Patrocínio, Cidade Baixa, Porto Alegre",
+			"cep": "90050-002",
+			"fav": false
+		},
+		{
+			"id": 7073738,
+			"name": "Píer 174",
+			"type": "bar",
+			"address": "174, Rua da República, Cidade Baixa, Porto Alegre",
+			"cep": "90050-321",
+			"fav": false
+		},
+		{
+			"id": 7033422,
+			"name": "",
+			"type": "bar",
+			"address": "Porto de Porto Alegre, Centro Histórico, Porto Alegre",
+			"cep": "90010-120",
+			"fav": false
+		},
+		{
+			"id": 7085858,
+			"name": "Anexo/9",
+			"type": "bar",
+			"address": "501, Avenida Presidente João Goulart, Centro Histórico, Porto Alegre",
+			"cep": "90010-120",
+			"fav": false
+		},
+		{
+			"id": 7036164,
+			"name": "Oculto",
+			"type": "bar",
+			"address": "Rua José do Patrocínio, Cidade Baixa, Porto Alegre",
+			"cep": "90050-002",
+			"fav": false
+		},
+		{
+			"id": 7068859,
+			"name": "Bar 2",
+			"type": "bar",
+			"address": "Ciclovia Edvaldo Pereira Paiva, Praia de Belas, Porto Alegre",
+			"cep": "90010-120",
+			"fav": false
+		},
+		{
+			"id": 7065451,
+			"name": "Bar 3",
+			"type": "bar",
+			"address": "Ciclovia Edvaldo Pereira Paiva, Praia de Belas, Porto Alegre",
+			"cep": "90010-120",
+			"fav": false
+		},
+		{
+			"id": 380445936,
+			"name": "Guernica",
+			"type": "bar",
+			"address": "44, Travessa dos Venezianos, Cidade Baixa, Porto Alegre",
+			"cep": "90050-370",
+			"fav": false
+		},
+		{
+			"id": 7065939,
+			"name": "Charlie Pub | Drinks & CoffeShop",
+			"type": "bar",
+			"address": "Rua General Lima e Silva, Cidade Baixa, Porto Alegre",
+			"cep": "90050-102",
+			"fav": false
+		},
+		{
+			"id": 7042383,
+			"name": "Boteco Dona Neusa",
+			"type": "bar",
+			"address": "800, Rua General Lima e Silva, Cidade Baixa, Porto Alegre",
+			"cep": "90050-100",
+			"fav": false
+		},
+		{
+			"id": 7032261,
+			"name": "",
+			"type": "bar",
+			"address": "Rua Octávio Corrêa, Cidade Baixa, Porto Alegre",
+			"cep": "90050-120",
+			"fav": false
+		},
+		{
+			"id": 6992505,
+			"name": "Amberê",
+			"type": "bar",
+			"address": "Ciclovia Edvaldo Pereira Paiva, Praia de Belas, Porto Alegre",
+			"cep": "90013-900",
+			"fav": false
+		},
+		{
+			"id": 7029645,
+			"name": "Tu Me Ama",
+			"type": "bar",
+			"address": "1062, Rua José do Patrocínio, Vila Cabo Rocha, Cidade Baixa",
+			"cep": "90050-193",
+			"fav": false
+		},
+		{
+			"id": 6959967,
+			"name": "Toca da Coruja",
+			"type": "bar",
+			"address": "Rua Olavo Bilac, Vila Cabo Rocha, Azenha",
+			"cep": "90040-310",
+			"fav": false
+		},
+		{
+			"id": 375594889,
+			"name": "Choro Jazz Café",
+			"type": "bar",
+			"address": "51, Rua Santana, Farroupilha, Porto Alegre",
+			"cep": "90040-370",
+			"fav": false
+		},
+		{
+			"id": 7033399,
+			"name": "Leiteria 639",
+			"type": "bar",
+			"address": "633, Avenida Venâncio Aires, Santana, Porto Alegre",
+			"cep": "90040-193",
+			"fav": false
+		},
+		{
+			"id": 7076850,
+			"name": "Petit Dalí Restobar",
+			"type": "bar",
+			"address": "52, Rua Vasco da Gama, Bom Fim, Porto Alegre",
+			"cep": "90420-111",
+			"fav": false
+		},
+		{
+			"id": 7053718,
+			"name": "Alice's Bar",
+			"type": "bar",
+			"address": "859, Avenida Venâncio Aires, Santana, Porto Alegre",
+			"cep": "90040-193",
+			"fav": false
+		},
+		{
+			"id": 7036123,
+			"name": "Hooroo - Australian Pub",
+			"type": "bar",
+			"address": "Rua Fernandes Vieira, Bom Fim, Porto Alegre",
+			"cep": "90035-091",
+			"fav": false
+		},
+		{
+			"id": 7092470,
+			"name": "Raupp Bar e Restaurante",
+			"type": "bar",
+			"address": "693, Avenida Getúlio Vargas, Menino Deus, Porto Alegre",
+			"cep": "90150-000",
+			"fav": false
+		},
+		{
+			"id": 6960112,
+			"name": "Boteco Imperial",
+			"type": "bar",
+			"address": "375, Rua Santana, Santana, Porto Alegre",
+			"cep": "90040-370",
+			"fav": false
+		},
+		{
+			"id": 7059665,
+			"name": "Bar da Praça",
+			"type": "bar",
+			"address": "Rua General Jacinto Osório, Santana, Porto Alegre",
+			"cep": "90040-290",
+			"fav": false
+		},
+		{
+			"id": 7040593,
+			"name": "Lagom Brewpub",
+			"type": "bar",
+			"address": "72, Rua Bento Figueiredo, Bom Fim, Porto Alegre",
+			"cep": "90035-140",
+			"fav": false
+		},
+		{
+			"id": 7055672,
+			"name": "Padaria e Lancheria Pinguim",
+			"type": "bar",
+			"address": "Avenida Jerônimo de Ornelas, Santana, Porto Alegre",
+			"cep": "90040-340",
+			"fav": false
+		},
+		{
+			"id": 6967191,
+			"name": "4Beer Menino Deus",
+			"type": "bar",
+			"address": "Avenida Getúlio Vargas, Menino Deus, Porto Alegre",
+			"cep": "90150-005",
+			"fav": false
+		},
+		{
+			"id": 7039602,
+			"name": "Tuim",
+			"type": "bar",
+			"address": "Rua General Câmara, Centro Histórico, Porto Alegre",
+			"cep": "91920-230",
+			"fav": false
+		},
+		{
+			"id": 6999835,
+			"name": "",
+			"type": "bar",
+			"address": "Centro Histórico, Porto Alegre, Região Geográfica Imediata de Porto Alegre",
+			"cep": "90010-370",
+			"fav": false
+		},
+		{
+			"id": 6989613,
+			"name": "",
+			"type": "bar",
+			"address": "Avenida Borges de Medeiros, Centro Histórico, Porto Alegre",
+			"cep": "90020-024",
+			"fav": false
+		},
+		{
+			"id": 7057770,
+			"name": "",
+			"type": "bar",
+			"address": "Centro Histórico, Porto Alegre, Região Geográfica Imediata de Porto Alegre",
+			"cep": "90010-310",
+			"fav": false
+		},
+		{
+			"id": 7064381,
+			"name": "",
+			"type": "bar",
+			"address": "Centro Histórico, Porto Alegre, Região Geográfica Imediata de Porto Alegre",
+			"cep": "90010-312",
+			"fav": false
+		},
+		{
+			"id": 6981377,
+			"name": "",
+			"type": "bar",
+			"address": "Centro Histórico, Porto Alegre, Região Geográfica Imediata de Porto Alegre",
+			"cep": "90020-025",
+			"fav": false
+		},
+		{
+			"id": 7027515,
+			"name": "Champanharia 690",
+			"type": "bar",
+			"address": "690- CEP  90010-280, Rua Duque de Caxias, Centro Histórico",
+			"cep": "90010-280",
+			"fav": false
+		},
+		{
+			"id": 6961970,
+			"name": "Espumantes La Cava",
+			"type": "bar",
+			"address": "1176, Rua Coronel Fernando Machado, Centro Histórico, Porto Alegre",
+			"cep": "90020-025",
+			"fav": false
+		},
+		{
+			"id": 7038643,
+			"name": "Brechó do Futebol",
+			"type": "bar",
+			"address": "1188, Rua Coronel Fernando Machado, Centro Histórico, Porto Alegre",
+			"cep": "90020-025",
+			"fav": false
+		},
+		{
+			"id": 7057686,
+			"name": "Hot Dog Retro",
+			"type": "bar",
+			"address": "266, Rua General Lima e Silva, Cidade Baixa, Porto Alegre",
+			"cep": "90070-150",
+			"fav": false
+		},
+		{
+			"id": 6972155,
+			"name": "Xirú",
+			"type": "bar",
+			"address": "Avenida João Pessoa, Centro Histórico, Porto Alegre",
+			"cep": "90050-170",
+			"fav": false
+		},
+		{
+			"id": 7060630,
+			"name": "Locals Only CB",
+			"type": "bar",
+			"address": "1086, Rua Sarmento Leite, Cidade Baixa, Porto Alegre",
+			"cep": "90050-001",
+			"fav": false
+		},
+		{
+			"id": 7025348,
+			"name": "Rei pública",
+			"type": "bar",
+			"address": "Rua José do Patrocínio, Cidade Baixa, Porto Alegre",
+			"cep": "90050-002",
+			"fav": false
+		},
+		{
+			"id": 7065786,
+			"name": "",
+			"type": "bar",
+			"address": "Centro Histórico, Porto Alegre, Região Geográfica Imediata de Porto Alegre",
+			"cep": "90010-410",
+			"fav": false
+		},
+		{
+			"id": 7070144,
+			"name": "",
+			"type": "bar",
+			"address": "Cidade Baixa, Porto Alegre, Região Geográfica Imediata de Porto Alegre",
+			"cep": "90050-140",
+			"fav": false
+		},
+		{
+			"id": 7060920,
+			"name": "Apolinário",
+			"type": "bar",
+			"address": "Rua José do Patrocínio, Cidade Baixa, Porto Alegre",
+			"cep": "90050-002",
+			"fav": false
+		},
+		{
+			"id": 7073738,
+			"name": "Píer 174",
+			"type": "bar",
+			"address": "174, Rua da República, Cidade Baixa, Porto Alegre",
+			"cep": "90050-321",
+			"fav": false
+		},
+		{
+			"id": 7033422,
+			"name": "",
+			"type": "bar",
+			"address": "Porto de Porto Alegre, Centro Histórico, Porto Alegre",
+			"cep": "90010-120",
+			"fav": false
+		},
+		{
+			"id": 7085858,
+			"name": "Anexo/9",
+			"type": "bar",
+			"address": "501, Avenida Presidente João Goulart, Centro Histórico, Porto Alegre",
+			"cep": "90010-120",
+			"fav": false
+		},
+		{
+			"id": 7036164,
+			"name": "Oculto",
+			"type": "bar",
+			"address": "Rua José do Patrocínio, Cidade Baixa, Porto Alegre",
+			"cep": "90050-002",
+			"fav": false
+		},
+		{
+			"id": 7068859,
+			"name": "Bar 2",
+			"type": "bar",
+			"address": "Ciclovia Edvaldo Pereira Paiva, Praia de Belas, Porto Alegre",
+			"cep": "90010-120",
+			"fav": false
+		},
+		{
+			"id": 7065451,
+			"name": "Bar 3",
+			"type": "bar",
+			"address": "Ciclovia Edvaldo Pereira Paiva, Praia de Belas, Porto Alegre",
+			"cep": "90010-120",
+			"fav": false
+		},
+		{
+			"id": 380445936,
+			"name": "Guernica",
+			"type": "bar",
+			"address": "44, Travessa dos Venezianos, Cidade Baixa, Porto Alegre",
+			"cep": "90050-370",
+			"fav": false
+		},
+		{
+			"id": 7065939,
+			"name": "Charlie Pub | Drinks & CoffeShop",
+			"type": "bar",
+			"address": "Rua General Lima e Silva, Cidade Baixa, Porto Alegre",
+			"cep": "90050-102",
+			"fav": false
+		},
+		{
+			"id": 7042383,
+			"name": "Boteco Dona Neusa",
+			"type": "bar",
+			"address": "800, Rua General Lima e Silva, Cidade Baixa, Porto Alegre",
+			"cep": "90050-100",
+			"fav": false
+		},
+		{
+			"id": 7032261,
+			"name": "",
+			"type": "bar",
+			"address": "Rua Octávio Corrêa, Cidade Baixa, Porto Alegre",
+			"cep": "90050-120",
+			"fav": false
+		},
+		{
+			"id": 6992505,
+			"name": "Amberê",
+			"type": "bar",
+			"address": "Ciclovia Edvaldo Pereira Paiva, Praia de Belas, Porto Alegre",
+			"cep": "90013-900",
+			"fav": false
+		},
+		{
+			"id": 7029645,
+			"name": "Tu Me Ama",
+			"type": "bar",
+			"address": "1062, Rua José do Patrocínio, Vila Cabo Rocha, Cidade Baixa",
+			"cep": "90050-193",
+			"fav": false
+		},
+		{
+			"id": 6959967,
+			"name": "Toca da Coruja",
+			"type": "bar",
+			"address": "Rua Olavo Bilac, Vila Cabo Rocha, Azenha",
+			"cep": "90040-310",
+			"fav": false
+		},
+		{
+			"id": 375594889,
+			"name": "Choro Jazz Café",
+			"type": "bar",
+			"address": "51, Rua Santana, Farroupilha, Porto Alegre",
+			"cep": "90040-370",
+			"fav": false
+		},
+		{
+			"id": 7033399,
+			"name": "Leiteria 639",
+			"type": "bar",
+			"address": "633, Avenida Venâncio Aires, Santana, Porto Alegre",
+			"cep": "90040-193",
+			"fav": false
+		},
+		{
+			"id": 7076850,
+			"name": "Petit Dalí Restobar",
+			"type": "bar",
+			"address": "52, Rua Vasco da Gama, Bom Fim, Porto Alegre",
+			"cep": "90420-111",
+			"fav": false
+		},
+		{
+			"id": 7053718,
+			"name": "Alice's Bar",
+			"type": "bar",
+			"address": "859, Avenida Venâncio Aires, Santana, Porto Alegre",
+			"cep": "90040-193",
+			"fav": false
+		},
+		{
+			"id": 7036123,
+			"name": "Hooroo - Australian Pub",
+			"type": "bar",
+			"address": "Rua Fernandes Vieira, Bom Fim, Porto Alegre",
+			"cep": "90035-091",
+			"fav": false
+		},
+		{
+			"id": 7092470,
+			"name": "Raupp Bar e Restaurante",
+			"type": "bar",
+			"address": "693, Avenida Getúlio Vargas, Menino Deus, Porto Alegre",
+			"cep": "90150-000",
+			"fav": false
+		},
+		{
+			"id": 6960112,
+			"name": "Boteco Imperial",
+			"type": "bar",
+			"address": "375, Rua Santana, Santana, Porto Alegre",
+			"cep": "90040-370",
+			"fav": false
+		},
+		{
+			"id": 7059665,
+			"name": "Bar da Praça",
+			"type": "bar",
+			"address": "Rua General Jacinto Osório, Santana, Porto Alegre",
+			"cep": "90040-290",
+			"fav": false
+		},
+		{
+			"id": 7040593,
+			"name": "Lagom Brewpub",
+			"type": "bar",
+			"address": "72, Rua Bento Figueiredo, Bom Fim, Porto Alegre",
+			"cep": "90035-140",
+			"fav": false
+		},
+		{
+			"id": 7055672,
+			"name": "Padaria e Lancheria Pinguim",
+			"type": "bar",
+			"address": "Avenida Jerônimo de Ornelas, Santana, Porto Alegre",
+			"cep": "90040-340",
+			"fav": false
+		},
+		{
+			"id": 6967191,
+			"name": "4Beer Menino Deus",
+			"type": "bar",
+			"address": "Avenida Getúlio Vargas, Menino Deus, Porto Alegre",
+			"cep": "90150-005",
+			"fav": false
+		},
+		{
+			"id": 7056830,
+			"name": "Gelateria Gianluca Zaffari",
+			"type": "cafe",
+			"address": "1823, Avenida Wenceslau Escobar, Tristeza, Porto Alegre",
+			"cep": "91900-000",
+			"fav": false
+		},
+		{
+			"id": 7044487,
+			"name": "Starbucks",
+			"type": "cafe",
+			"address": "300, Avenida Diário de Notícias, Cristal, Porto Alegre",
+			"cep": "90810-080",
+			"fav": false
+		},
+		{
+			"id": 7049666,
+			"name": "Positano Café",
+			"type": "cafe",
+			"address": "155, Rua Vicente Failace, Tristeza, Porto Alegre",
+			"cep": "91900-200",
+			"fav": false
+		},
+		{
+			"id": 7041739,
+			"name": "Press Iberê",
+			"type": "cafe",
+			"address": "2000, Avenida Padre Cacique, Cristal, Porto Alegre",
+			"cep": "90810-240",
+			"fav": false
+		},
+		{
+			"id": 7015104,
+			"name": "Café & Prosa",
+			"type": "cafe",
+			"address": "963, Rua Doutor Mário Totta, Tristeza, Porto Alegre",
+			"cep": "91920-130",
+			"fav": false
+		},
+		{
+			"id": 7035457,
+			"name": "",
+			"type": "cafe",
+			"address": "Avenida Wenceslau Escobar, Tristeza, Porto Alegre",
+			"cep": "91900-000",
+			"fav": false
+		},
+		{
+			"id": 7053985,
+			"name": "Colônia Villanova Armazém e Café",
+			"type": "cafe",
+			"address": "600, Avenida João Salomoni, Vila Nova, Porto Alegre",
+			"cep": "91740-830",
+			"fav": false
+		},
+		{
+			"id": 373479381,
+			"name": "Zagonel Lancheria e Cafeteria",
+			"type": "cafe",
+			"address": "3174, Rua Conselheiro Xavier da Costa, Ipanema, Porto Alegre",
+			"cep": "91760-530",
+			"fav": false
+		},
+		{
+			"id": 7031348,
+			"name": "",
+			"type": "cafe",
+			"address": "Menino Deus, Porto Alegre, Região Geográfica Imediata de Porto Alegre",
+			"cep": "90130-060",
+			"fav": false
+		},
+		{
+			"id": 7110140,
+			"name": "Nina Bar Café",
+			"type": "cafe",
+			"address": "1380, Avenida Guaíba, Ipanema, Porto Alegre",
+			"cep": "91760-060",
+			"fav": false
+		},
+		{
+			"id": 7048957,
+			"name": "Oficina do Açaí Menino Deus",
+			"type": "cafe",
+			"address": "1138, Avenida Getúlio Vargas, Menino Deus, Porto Alegre",
+			"cep": "90150-005",
+			"fav": false
+		},
+		{
+			"id": 7065504,
+			"name": "Café Central",
+			"type": "cafe",
+			"address": "1181, Avenida Praia de Belas, Praia de Belas, Porto Alegre",
+			"cep": "90110-001",
+			"fav": false
+		},
+		{
+			"id": 7033452,
+			"name": "Gramado Gourmet",
+			"type": "cafe",
+			"address": "738, Avenida Getúlio Vargas, Menino Deus, Porto Alegre",
+			"cep": "90150-002",
+			"fav": false
+		},
+		{
+			"id": 7029720,
+			"name": "Mulligan Irish Pub Zona Sul",
+			"type": "pub",
+			"address": "1468, Avenida Wenceslau Escobar, Tristeza, Porto Alegre",
+			"cep": "91900-000",
+			"fav": false
+		},
+		{
+			"id": 6982978,
+			"name": "Salão de Festas",
+			"type": "pub",
+			"address": "Avenida Guaíba, Vila Assunção, Porto Alegre",
+			"cep": "91900-420",
+			"fav": false
+		},
+		{
+			"id": 7096029,
+			"name": "Boteco Tirol Paseo",
+			"type": "pub",
+			"address": "Avenida Wenceslau Escobar, Tristeza, Porto Alegre",
+			"cep": "91900-050",
+			"fav": false
+		},
+		{
+			"id": 7073128,
+			"name": "Boteco Natalicio Paseo Zona Sul",
+			"type": "pub",
+			"address": "Avenida Wenceslau Escobar, Tristeza, Porto Alegre",
+			"cep": "91900-050",
+			"fav": false
+		},
+		{
+			"id": 7026693,
+			"name": "Mulligan Irish Pub Paseo",
+			"type": "pub",
+			"address": "1823, Avenida Wenceslau Escobar, Tristeza, Porto Alegre",
+			"cep": "91900-000",
+			"fav": false
+		},
+		{
+			"id": 7051471,
+			"name": "Dado Pub Zona Sul",
+			"type": "pub",
+			"address": "Avenida Otto Niemeyer, Tristeza, Porto Alegre",
+			"cep": "91900-780",
+			"fav": false
+		},
+		{
+			"id": 7103351,
+			"name": "Chalas (antigo Chalaça Bar)",
+			"type": "pub",
+			"address": "240, Praça Senador Alberto Pasqualine, Ipanema, Porto Alegre",
+			"cep": "91760-051",
+			"fav": false
+		},
+		{
+			"id": 7096683,
+			"name": "Radical Bar",
+			"type": "pub",
+			"address": "11218, Rua Jardi, Ipanema, Porto Alegre",
+			"cep": "90680-000",
+			"fav": false
+		},
+		{
+			"id": 7027004,
+			"name": "Bar dos Guri",
+			"type": "pub",
+			"address": "Rua José de Alencar, Menino Deus, Porto Alegre",
+			"cep": "90850-180",
+			"fav": false
+		},
+		{
+			"id": 7012788,
+			"name": "Somos Encontro",
+			"type": "pub",
+			"address": "1053, Avenida Getúlio Vargas, Menino Deus, Porto Alegre",
+			"cep": "90150-050",
+			"fav": false
+		},
+		{
+			"id": 369074952,
+			"name": "Somos Resenha",
+			"type": "pub",
+			"address": "Avenida Niterói, Medianeira, Porto Alegre",
+			"cep": "90880-270",
+			"fav": false
+		},
+		{
+			"id": 6811836,
+			"name": "",
+			"type": "cafe",
+			"address": "Centro, Canoas, Região Geográfica Imediata de Porto Alegre",
+			"cep": "92010-000",
+			"fav": false
+		},
+		{
+			"id": 6808660,
+			"name": "Simples",
+			"type": "cafe",
+			"address": "1083, Rua Doutor Barcelos, Centro, Canoas",
+			"cep": "92310-200",
+			"fav": false
+		},
+		{
+			"id": 6806280,
+			"name": "Gurias Doceiras",
+			"type": "cafe",
+			"address": "40, Rua Coronel Marcelino, Centro, Canoas",
+			"cep": "92310-060",
+			"fav": false
+		},
+		{
+			"id": 6809591,
+			"name": "",
+			"type": "cafe",
+			"address": "Centro, Canoas, Região Geográfica Imediata de Porto Alegre",
+			"cep": "92310-230",
+			"fav": false
+		},
+		{
+			"id": 6811990,
+			"name": "",
+			"type": "cafe",
+			"address": "Mathias Velho, Canoas, Região Geográfica Imediata de Porto Alegre",
+			"cep": "92330-290",
+			"fav": false
+		},
+		{
+			"id": 6822344,
+			"name": "",
+			"type": "cafe",
+			"address": "Avenida Farroupilha, Igara, Canoas",
+			"cep": "92401-305",
+			"fav": false
+		},
+		{
+			"id": 267304291,
+			"name": "Malinche",
+			"type": "cafe",
+			"address": "Vía 238, Canoas Abajo, Canoas",
+			"cep": "61003",
+			"fav": false
+		},
+		{
+			"id": 6794628,
+			"name": "Marquês Bier",
+			"type": "pub",
+			"address": "1202, Rua Doutor Barcelos, Centro, Canoas",
+			"cep": "92310-200",
+			"fav": false
+		},
+		{
+			"id": 6823718,
+			"name": "Sagrado Pub",
+			"type": "pub",
+			"address": "65, Rua Frederico Guilherme Ludwig, Centro, Canoas",
+			"cep": "92310-240",
+			"fav": false
+		},
+		{
+			"id": 6800550,
+			"name": "BrechóPub",
+			"type": "pub",
+			"address": "285, Rua Felipe de Noronha, Marechal Rondon, Canoas",
+			"cep": "92020-303",
+			"fav": false
+		},
+		{
+			"id": 6838128,
+			"name": "Inner 33 Beer Pub",
+			"type": "pub",
+			"address": "1861, Avenida Açucena, Estância Velha, Canoas",
+			"cep": "92020-000",
+			"fav": false
+		},
+		{
+			"id": 6808713,
+			"name": "Bar do Valtair",
+			"type": "pub",
+			"address": "Rua Uruguaiana, Mathias Velho, Canoas",
+			"cep": "92330-370",
+			"fav": false
+		},
+		{
+			"id": 6804359,
+			"name": "Bar e Lancheria J & J",
+			"type": "pub",
+			"address": "Rua Uruguaiana, Mathias Velho, Canoas",
+			"cep": "92330-370",
+			"fav": false
+		},
+		{
+			"id": 6809933,
+			"name": "COT-Clínica Ortopedia e Traumatologia",
+			"type": "hospital",
+			"address": "3040, Avenida Victor Barreto, Centro, Canoas",
+			"cep": "92010-000",
+			"fav": false
+		},
+		{
+			"id": 6795846,
+			"name": "UPA12H Idoso",
+			"type": "hospital",
+			"address": "6184, Avenida Guilherme Schell, Centro, Canoas",
+			"cep": "92310-564",
+			"fav": false
+		},
+		{
+			"id": 6806687,
+			"name": "Hospital da Aeronáutica de Canoas - HACO",
+			"type": "hospital",
+			"address": "Avenida A, Fátima, Canoas",
+			"cep": "92010-050",
+			"fav": false
+		},
+		{
+			"id": 6794978,
+			"name": "Unimed",
+			"type": "hospital",
+			"address": "Avenida Boqueirão, Igara, Canoas",
+			"cep": "92020-970",
+			"fav": false
+		},
+		{
+			"id": 6792979,
+			"name": "Hospital Nossa Senhora das Graças",
+			"type": "hospital",
+			"address": "1864, Avenida Santos Ferreira, Marechal Rondon, Canoas",
+			"cep": "92030-300",
+			"fav": false
+		},
+		{
+			"id": 6811958,
+			"name": "HPSC",
+			"type": "hospital",
+			"address": "Rua Caçapava, Mathias Velho, Canoas",
+			"cep": "92330-290",
+			"fav": false
+		},
+		{
+			"id": 6828376,
+			"name": "Hospital Pronto Socorro de Canoas",
+			"type": "hospital",
+			"address": "Rua Caçapava, Mathias Velho, Canoas",
+			"cep": "92330-290",
+			"fav": false
+		},
+		{
+			"id": 6804840,
+			"name": "UPA Caçapava",
+			"type": "hospital",
+			"address": "201, Rua Caçapava, Mathias Velho, Canoas",
+			"cep": "92330-290",
+			"fav": false
+		},
+		{
+			"id": 6860749,
+			"name": "UPA24H Rio Branco",
+			"type": "hospital",
+			"address": "600, Rua Cairú, Rio Branco, Canoas",
+			"cep": "92200-352",
+			"fav": false
+		},
+		{
+			"id": 6803824,
+			"name": "Ambulatório",
+			"type": "hospital",
+			"address": "Rua Miguel Tostes, São José, Canoas",
+			"cep": "92420-170",
+			"fav": false
+		},
+		{
+			"id": 6896237,
+			"name": "Hospital Universitário de Canoas",
+			"type": "hospital",
+			"address": "Rua Miguel Tostes, São José, Canoas",
+			"cep": "92420-170",
+			"fav": false
+		},
+		{
+			"id": 6807520,
+			"name": "UPA16h Nitéroi",
+			"type": "hospital",
+			"address": "534, Rua Primeiro de Maio, Niterói, Canoas",
+			"cep": "92120-220",
+			"fav": false
+		},
+		{
+			"id": 6797127,
+			"name": "UPA24H Guajuviras",
+			"type": "hospital",
+			"address": "2900, Rua Curumim, Estância Velha, Canoas",
+			"cep": "92032-040",
+			"fav": false
+		},
+		{
+			"id": 6613158,
+			"name": "Hotel Metropolitan",
+			"type": "hotel",
+			"address": "Rua Domingos Martins, Centro, Canoas",
+			"cep": "92010-170",
+			"fav": false
+		},
+		{
+			"id": 6620254,
+			"name": "Hotel Express",
+			"type": "hotel",
+			"address": "Avenida Getúlio Vargas, Marechal Rondon, Canoas",
+			"cep": "92010-310",
+			"fav": false
+		},
+		{
+			"id": 6561243,
+			"name": "Hotel Economico",
+			"type": "hotel",
+			"address": "5085, Avenida Getúlio Vargas, Centro, Canoas",
+			"cep": "92010-240",
+			"fav": false
+		},
+		{
+			"id": 267617262,
+			"name": "",
+			"type": "hotel",
+			"address": "La Libertad, Canoas, Cantón Corredores",
+			"cep": "61003",
+			"fav": false
+		},
+		{
+			"id": 270344400,
+			"name": "Hotel El Descanso",
+			"type": "hotel",
+			"address": "Avenida 6, La Libertad, Canoas",
+			"cep": "61003",
+			"fav": false
+		},
+		{
+			"id": 267636819,
+			"name": "Gran Hotel Ronald",
+			"type": "hotel",
+			"address": "Calle 0, La Libertad, Canoas",
+			"cep": "61003",
+			"fav": false
+		},
+		{
+			"id": 269773725,
+			"name": "Hotel Real Victoria",
+			"type": "hotel",
+			"address": "Calle 1, La Libertad, Canoas",
+			"cep": "61003",
+			"fav": false
+		},
+		{
+			"id": 270012142,
+			"name": "Cabinas Romy",
+			"type": "hotel",
+			"address": "Calle 1, La Libertad, Canoas",
+			"cep": "61003",
+			"fav": false
+		},
+		{
+			"id": 269844604,
+			"name": "Cabinas Victoria",
+			"type": "hotel",
+			"address": "Calle 1, La Libertad, Canoas",
+			"cep": "61003",
+			"fav": false
+		},
+		{
+			"id": 6621609,
+			"name": "",
+			"type": "hotel",
+			"address": "Marechal Rondon, Canoas, Região Geográfica Imediata de Porto Alegre",
+			"cep": "92010-013",
+			"fav": false
+		},
+		{
+			"id": 268979310,
+			"name": "Hotel Los Olivos",
+			"type": "hotel",
+			"address": "Calle Paso Canoas, El Cartín, Canoas",
+			"cep": "61003",
+			"fav": false
+		},
+		{
+			"id": 269054560,
+			"name": "Hotel Los Higuerones",
+			"type": "hotel",
+			"address": "Avenida 10, Betel, Canoas",
+			"cep": "61003",
+			"fav": false
+		},
+		{
+			"id": 6586069,
+			"name": "Ibis Canoas Shopping",
+			"type": "hotel",
+			"address": "235, Rua Mathias Velho, Centro, Canoas",
+			"cep": "92310-300",
+			"fav": false
+		},
+		{
+			"id": 6564817,
+			"name": "Canoas Parque Hotel",
+			"type": "hotel",
+			"address": "7421, Avenida Getúlio Vargas, Igara, Canoas",
+			"cep": "92010-011",
+			"fav": false
+		},
+		{
+			"id": 270012498,
+			"name": "Hotel La Posada",
+			"type": "hotel",
+			"address": "Vía 238, Canoas Abajo, Canoas",
+			"cep": "61003",
+			"fav": false
+		},
+		{
+			"id": 6623835,
+			"name": "Hotel Castel",
+			"type": "hotel",
+			"address": "Rua dos Flamboyant, Igara, Canoas",
+			"cep": "92410-310",
+			"fav": false
+		},
+		{
+			"id": 6652745,
+			"name": "Luzon Apart Hotel",
+			"type": "hotel",
+			"address": "Rua Bolívia, São José, Canoas",
+			"cep": "92420-170",
+			"fav": false
+		},
+		{
+			"id": 6658137,
+			"name": "Apart Hotel Universitário",
+			"type": "hotel",
+			"address": "Rua Farroupilha, São José, Canoas",
+			"cep": "92420-170",
+			"fav": false
+		},
+		{
+			"id": 7035824,
+			"name": "",
+			"type": "hotel",
+			"address": "Centro Histórico, Porto Alegre, Região Geográfica Imediata de Porto Alegre",
+			"cep": "90010-230",
+			"fav": false
+		},
+		{
+			"id": 7032287,
+			"name": "Hotel Açores",
+			"type": "hotel",
+			"address": "885, Rua dos Andradas, Centro Histórico, Porto Alegre",
+			"cep": "90020-001",
+			"fav": false
+		},
+		{
+			"id": 7066726,
+			"name": "Lido Hotel",
+			"type": "hotel",
+			"address": "150, Rua General Andrade Neves, Centro Histórico, Porto Alegre",
+			"cep": "90010-200",
+			"fav": false
+		},
+		{
+			"id": 7023140,
+			"name": "Hotel Savoy",
+			"type": "hotel",
+			"address": "Avenida Borges de Medeiros, Centro Histórico, Porto Alegre",
+			"cep": "90020-024",
+			"fav": false
+		},
+		{
+			"id": 7049723,
+			"name": "Hotel Lancaster",
+			"type": "hotel",
+			"address": "67, Travessa Acylino de Carvalho, Centro Histórico, Porto Alegre",
+			"cep": "90010-200",
+			"fav": false
+		},
+		{
+			"id": 7028056,
+			"name": "Hotel Everest",
+			"type": "hotel",
+			"address": "Passeio Primavera, Centro Histórico, Porto Alegre",
+			"cep": "90020-024",
+			"fav": false
+		},
+		{
+			"id": 7043447,
+			"name": "",
+			"type": "hotel",
+			"address": "Rua General João Manoel, Centro Histórico, Porto Alegre",
+			"cep": "90020-005",
+			"fav": false
+		},
+		{
+			"id": 7026582,
+			"name": "Hotel Pampa",
+			"type": "hotel",
+			"address": "Rua Demétrio Ribeiro, Centro Histórico, Porto Alegre",
+			"cep": "90010-310",
+			"fav": false
+		},
+		{
+			"id": 7072050,
+			"name": "City Hotel",
+			"type": "hotel",
+			"address": "Rua José Montaury, Centro Histórico, Porto Alegre",
+			"cep": "90020-021",
+			"fav": false
+		},
+		{
+			"id": 7081917,
+			"name": "Embaixador",
+			"type": "hotel",
+			"address": "354, Rua Jerônimo Coelho, Centro Histórico, Porto Alegre",
+			"cep": "90020-110",
+			"fav": false
+		},
+		{
+			"id": 6999264,
+			"name": "Harbor Hotel Regent Suítes",
+			"type": "hotel",
+			"address": "700, Rua Vigário José Inácio, Centro Histórico, Porto Alegre",
+			"cep": "90020-110",
+			"fav": false
+		},
+		{
+			"id": 7031074,
+			"name": "Hotel Dan Inn",
+			"type": "hotel",
+			"address": "Avenida Senador Salgado Filho, Centro Histórico, Porto Alegre",
+			"cep": "90010-220",
+			"fav": false
+		},
+		{
+			"id": 7017521,
+			"name": "Hotel Ritz",
+			"type": "hotel",
+			"address": "Avenida Desembargador André da Rocha, Centro Histórico, Porto Alegre",
+			"cep": "90010-283",
+			"fav": false
+		},
+		{
+			"id": 7059462,
+			"name": "Ornatus Palace",
+			"type": "hotel",
+			"address": "148, Rua General Vitorino, Centro Histórico, Porto Alegre",
+			"cep": "90020-171",
+			"fav": false
+		},
+		{
+			"id": 7036680,
+			"name": "Hotel Uruguai",
+			"type": "hotel",
+			"address": "Rua General Vitorino, Centro Histórico, Porto Alegre",
+			"cep": "90020-171",
+			"fav": false
+		},
+		{
+			"id": 7064811,
+			"name": "Eko Residence",
+			"type": "hotel",
+			"address": "Avenida Desembargador André da Rocha, Centro Histórico, Porto Alegre",
+			"cep": "90050-161",
+			"fav": false
+		},
+		{
+			"id": 7079722,
+			"name": "Master Express Lima e Silva",
+			"type": "hotel",
+			"address": "1840, Avenida Loureiro da Silva, Centro Histórico, Porto Alegre",
+			"cep": "90050-240",
+			"fav": false
+		},
+		{
+			"id": 7034167,
+			"name": "Hotel Continental",
+			"type": "hotel",
+			"address": "Praça Otávio Rocha, Centro Histórico, Porto Alegre",
+			"cep": "90020-120",
+			"fav": false
+		},
+		{
+			"id": 7080133,
+			"name": "Master Palace Hotel",
+			"type": "hotel",
+			"address": "Rua Senhor dos Passos, Centro Histórico, Porto Alegre",
+			"cep": "90020-180",
+			"fav": false
+		},
+		{
+			"id": 7052029,
+			"name": "Tulip Inn Centro Histórico Hotel",
+			"type": "hotel",
+			"address": "Avenida Otávio Rocha, Centro Histórico, Porto Alegre",
+			"cep": "90020-150",
+			"fav": false
+		},
+		{
+			"id": 7095841,
+			"name": "Intercity",
+			"type": "hotel",
+			"address": "1960, Avenida Loureiro da Silva, Cidade Baixa, Porto Alegre",
+			"cep": "90050-240",
+			"fav": false
+		},
+		{
+			"id": 7044378,
+			"name": "Hotel Plaza",
+			"type": "hotel",
+			"address": "154, Rua Senhor dos Passos, Centro Histórico, Porto Alegre",
+			"cep": "90020-150",
+			"fav": false
+		},
+		{
+			"id": 7060558,
+			"name": "Master Express Cidade Baixa",
+			"type": "hotel",
+			"address": "865, Rua Sarmento Leite, Cidade Baixa, Porto Alegre",
+			"cep": "90050-170",
+			"fav": false
+		},
+		{
+			"id": 7087220,
+			"name": "Gerion Moinhos Residencial 3° idade",
+			"type": "hotel",
+			"address": "80, Rua Sofia Veloso, Cidade Baixa, Porto Alegre",
+			"cep": "90050-140",
+			"fav": false
+		},
+		{
+			"id": 7064964,
+			"name": "Plaza São Rafael",
+			"type": "hotel",
+			"address": "Avenida Alberto Bins, Centro Histórico, Porto Alegre",
+			"cep": "90030-142",
+			"fav": false
+		},
+		{
+			"id": 6985858,
+			"name": "Real Palace Hotel",
+			"type": "hotel",
+			"address": "421, Rua Coronel Vicente, Centro Histórico, Porto Alegre",
+			"cep": "90030-041",
+			"fav": false
+		},
+		{
+			"id": 6991665,
+			"name": "Motel do Centro",
+			"type": "hotel",
+			"address": "Rua Coronel Vicente, Centro Histórico, Porto Alegre",
+			"cep": "90030-041",
+			"fav": false
+		},
+		{
+			"id": 7081556,
+			"name": "Hotel Metrópole",
+			"type": "hotel",
+			"address": "Avenida Júlio de Castilhos, Centro Histórico, Porto Alegre",
+			"cep": "91010-003",
+			"fav": false
+		},
+		{
+			"id": 7045778,
+			"name": "Ibis Budget",
+			"type": "hotel",
+			"address": "Rua Coronel Vicente, Centro Histórico, Porto Alegre",
+			"cep": "90030-130",
+			"fav": false
+		},
+		{
+			"id": 7056611,
+			"name": "Umbu Hotel Porto Alegre",
+			"type": "hotel",
+			"address": "45, Avenida Farrapos, Floresta, Porto Alegre",
+			"cep": "90030-001",
+			"fav": false
+		},
+		{
+			"id": 7109487,
+			"name": "Premium Flat",
+			"type": "hotel",
+			"address": "2105, Avenida Borges de Medeiros, Praia de Belas, Porto Alegre",
+			"cep": "90110-900",
+			"fav": false
+		},
+		{
+			"id": 7054828,
+			"name": "Intercity Premium",
+			"type": "hotel",
+			"address": "2145, Avenida Borges de Medeiros, Praia de Belas, Porto Alegre",
+			"cep": "90110-150",
+			"fav": false
+		},
+		{
+			"id": 6978429,
+			"name": "Olaria Residencial Hottel",
+			"type": "hotel",
+			"address": "Rua General Lima e Silva, Cidade Baixa, Porto Alegre",
+			"cep": "90050-102",
+			"fav": false
+		},
+		{
+			"id": 7000247,
+			"name": "Express Hotel",
+			"type": "hotel",
+			"address": "Rua Garibaldi, Largo Vespasiano Júlio Veppo, Floresta",
+			"cep": "90035-040",
+			"fav": false
+		},
+		{
+			"id": 7032495,
+			"name": "Pousada do Porto",
+			"type": "hotel",
+			"address": "Rua Lopo Gonçalves, Cidade Baixa, Porto Alegre",
+			"cep": "90050-003",
+			"fav": false
+		},
+		{
+			"id": 7062542,
+			"name": "Hotel Continental",
+			"type": "hotel",
+			"address": "77, Largo Vespasiano Júlio Veppo, Floresta, Porto Alegre",
+			"cep": "90035-040",
+			"fav": false
+		},
+		{
+			"id": 7074751,
+			"name": "Ritter Hotel",
+			"type": "hotel",
+			"address": "55, Largo Vespasiano Júlio Veppo, Floresta, Porto Alegre",
+			"cep": "90035-040",
+			"fav": false
+		},
+		{
+			"id": 7052902,
+			"name": "",
+			"type": "hotel",
+			"address": "Floresta, Porto Alegre, Região Geográfica Imediata de Porto Alegre",
+			"cep": "90030-001",
+			"fav": false
+		},
+		{
+			"id": 7058323,
+			"name": "Terminal-Tur Hotel",
+			"type": "hotel",
+			"address": "125, Largo Vespasiano Júlio Veppo, Floresta, Porto Alegre",
+			"cep": "90035-040",
+			"fav": false
+		},
+		{
+			"id": 7056442,
+			"name": "Garibaldi Hotel",
+			"type": "hotel",
+			"address": "652, Rua Garibaldi, Floresta, Porto Alegre",
+			"cep": "90035-050",
+			"fav": false
+		}
+	]
+}

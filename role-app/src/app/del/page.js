@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-
+import "./style.css";
 const HomePage = () => {
 	const [formData, setFormData] = useState({
 		// Initialize with your desired properties
@@ -40,16 +40,24 @@ const HomePage = () => {
 	return (
 		<div className="container">
 			<form onSubmit={handleFormSubmit}>
-				<label>
-					Insira o id do elemento a ser deletado:
-					<input
-						type="text"
-						name="exampleData"
-						value={formData.exampleData}
-						onChange={handleInputChange}
-					/>
-				</label>
+				<label>Insira o id do elemento a ser deletado:</label>
+				<input
+					type="text"
+					name="exampleData"
+					value={formData.exampleData}
+					onChange={handleInputChange}
+				/>
+
 				<button type="submit">Submit</button>
+				<div className="container">
+					<br />
+					<a className="link" href="../put">
+						Adicionar aos favoritos
+					</a>
+					<a className="link" href="../">
+						Voltar a Home
+					</a>
+				</div>
 			</form>
 		</div>
 	);
